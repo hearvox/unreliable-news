@@ -2,7 +2,7 @@
 This page links to lists of fake news sites published by:
 <ol>
   <li>Buzzfeed</li>
-  <li>Buzzfeed</li>
+  <li>Claim Sources</li>
   <li>Daily Dot</li>
   <li>Fake News Codex</li>
   <li>FactCheck.org</li>  
