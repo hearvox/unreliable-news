@@ -42,6 +42,7 @@ http://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
 ## Claim Sources ##
 Claim Sources (2016-12-20 / 121 sites)  
+Data:  
 https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3UOg/edit#gid=1882442466
 
 <em>Compiles these lists: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
@@ -89,6 +90,7 @@ Related:
 https://www.informationisbeautiful.net/  
 Viz and data:  
 https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/  
+Data:  
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Is It Fake News? ##
@@ -105,6 +107,10 @@ https://isitfakenews.com/site/infowars.com
 ## Lead Stories
 Old Network of Anti-Islam Fake News Websites Turns To Twitter Trolling (2018-11-27)  
 https://hoax-alert.leadstories.com/3469931-old-network-of-anti-islam-fake-news-websites-turns-to-twitter-trolling.html
+https://www.buzzfeednews.com/article/craigsilverman/porn-runs-the-internet#.cuDD6DMxj8
+
+Data:  
+https://docs.google.com/spreadsheets/d/1rQaXDiuve76ezGLIBHHikDbZftdrBtBIKokk2ZBdqFA/edit#gid=766879317
 
 ## Media Bias Fact Check
 Media Bias / Fact Check (2016-Present)
@@ -136,6 +142,7 @@ Related:
 http://www.opensources.co/  
 https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview  
 https://github.com/BigMcLargeHuge/opensources  
+Data:  
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
 ## PolitiFact ##
@@ -147,7 +154,8 @@ http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-
 Releated:    
 http://www.politifact.com/punditfact/article/2017/jan/27/fact-checking-fake-news-reveals-how-hard-it-kill-p/  
 http://www.politifact.com/truth-o-meter/blog/2016/nov/16/lets-fight-back-against-fake-news/  
-http://www.politifact.com/subjects/fake-news/
+http://www.politifact.com/subjects/fake-news/  
+Data:  
 https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
 
 ## Snopes ##
@@ -157,6 +165,10 @@ https://www.snopes.com/2016/01/14/fake-news-sites/
 <blockquote>Snopes.com's updated guide to the internet's clickbaiting, news-faking, social media exploiting dark side.…
 
 So long as social media allows for the rapid spread of information, manipulative entities will seek to cash in on the rapid spread of misinformation. Perhaps the most egregious of the many nonsense peddlers on social media are fake news sites, so here we offer a guide to several of the most frequent (and unapologetic) hoax purveyors cluttering up newsfeeds everywhere.</blockquote>
+
+## Southern Poverty Law Center
+SPLC hate groups:
+https://www.splcenter.org/fighting-hate/extremist-files/groups
 
 ## Wikipedia ## 
 List of fake news websites (2018-06-20 / 76 sites)  
