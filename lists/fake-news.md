@@ -1,7 +1,7 @@
 # Fake News site lists #
 This page links to lists of fake news sites published by:
 <ol>
-  <li>Buzzfeed</li>
+  <li>BuzzFeed</li>
   <li>Claim Sources</li>
   <li>Daily Dot</li>
   <li>Fake News Codex</li>
@@ -9,6 +9,7 @@ This page links to lists of fake news sites published by:
   <li>Fake News Watch</li>
   <li>information is beautifu</li>
   <li>Is It Fake News?</li>
+  <li>Junk News Aggregator</li>
   <li>Lead Stories</li>
   <li>Media Bias / Fact Check</li>
   <li>MetaCert</li>
@@ -20,19 +21,23 @@ This page links to lists of fake news sites published by:
 
 <hr>
 
-## Buzzfeed
+## BuzzFeed
+8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation (2018-12-27)  
+Craig Silverman  
+https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown
+
 These are 50 of the biggest fake news hits on Facebook in 2017 (2017-12-17)  
-Silverman C, Lytvynenko J, Pham S. T. BuzzFeed News.   
+Silverman C, Lytvynenko J, Pham S. T.
 https://www.buzzfeednews.com/article/craigsilverman/these-are-50-of-the-biggest-fake-news-hits-on-facebook-in  
 https://github.com/BuzzFeedNews/2017-12-fake-news-top-50
 
 In spite of the crackdown, fake news publishers are still earning money from major ad networks (2017-04-04)
-Silverman C, Singer-Vine J, Vo LT (April 4, 2017). BuzzFeed News.     
+Silverman C, Singer-Vine J, Vo LT    
 https://www.buzzfeednews.com/article/craigsilverman/fake-news-real-ads  
 https://docs.google.com/spreadsheets/d/1sVFSHM7aITXE4QMNA7NIyPI8uYR1NHFiHHAMj5q3vKU/edit#gid=0
 
 Here are 50 of the biggest fake news hits on Facebook from 2016 (2016-12-30)  
-Silverman C (2016). BuzzFeed News.  
+Silverman C (2016) 
 https://www.buzzfeednews.com/article/craigsilverman/top-fake-news-of-2016  
 https://docs.google.com/spreadsheets/d/1sTkRkHLvZp9XlJOynYMXGslKY9fuB_e-2mrxqgLwvZY/edit#gid=652144590
 
@@ -85,6 +90,13 @@ Unreliable / Fake News Sites & Sources (2016-12-01 / 408 sites)
 https://docs.google.com/spreadsheets/d/1xDDmbr54qzzG8wUrRdxQl_C1dixJSIYqQUaXVZBqsJs/edit#gid=1337422806
 
 <em>No info on mehtodology in Google sheet. No connected viz found at IIB.</em>
+
+## Junk News Aggregator
+Junk News Aggregator: 50 junk news sites  
+https://newsaggregator.oii.ox.ac.uk/methodology.php  
+Junk News Classification  
+http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews-OnlineSupplement.pdf  
+(Computational Propaganda group (COMPROP) of the Oxford Internet Institute (OII) at the University of Oxford)
 
 Related:  
 https://www.informationisbeautiful.net/  
