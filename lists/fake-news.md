@@ -1,20 +1,50 @@
 # Fake News site lists #
 This page links to lists of fake news sites published by:
 <ol>
+  <li>Buzzfeed</li>
+  <li>Buzzfeed</li>
   <li>Daily Dot</li>
   <li>Fake News Codex</li>
   <li>FactCheck.org</li>  
   <li>Fake News Watch</li>
   <li>information is beautifu</li>
   <li>Is It Fake News?</li>
+  <li>Lead Stories</li>
+  <li>Media Bias / Fact Check</li>
+  <li>MetaCert</li>
   <li>OpenSources.co</li>
   <li>PolitiFact</li>
   <li>Snopes</li>
   <li>Wikipedia</li>
 </ol>
 
-(Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a> compilation of fact-checking steps collected from 20+ publishers.)
 <hr>
+
+## Buzzfeed
+These are 50 of the biggest fake news hits on Facebook in 2017 (2017-12-17)  
+Silverman C, Lytvynenko J, Pham S. T. BuzzFeed News.   
+https://www.buzzfeednews.com/article/craigsilverman/these-are-50-of-the-biggest-fake-news-hits-on-facebook-in  
+https://github.com/BuzzFeedNews/2017-12-fake-news-top-50
+
+In spite of the crackdown, fake news publishers are still earning money from major ad networks (2017-04-04)
+Silverman C, Singer-Vine J, Vo LT (April 4, 2017). BuzzFeed News.     
+https://www.buzzfeednews.com/article/craigsilverman/fake-news-real-ads  
+https://docs.google.com/spreadsheets/d/1sVFSHM7aITXE4QMNA7NIyPI8uYR1NHFiHHAMj5q3vKU/edit#gid=0
+
+Here are 50 of the biggest fake news hits on Facebook from 2016 (2016-12-30)  
+Silverman C (2016). BuzzFeed News.  
+https://www.buzzfeednews.com/article/craigsilverman/top-fake-news-of-2016  
+https://docs.google.com/spreadsheets/d/1sTkRkHLvZp9XlJOynYMXGslKY9fuB_e-2mrxqgLwvZY/edit#gid=652144590
+
+Used by:  
+http://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
+
+
+## Claim Sources ##
+Claim Sources (2016-12-20 / 121 sites)  
+https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3UOg/edit#gid=1882442466
+
+<em>Compiles these lists: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
 
 ## Daily Dot ##
 Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27 / 175 sites)  
@@ -23,8 +53,8 @@ https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 <blockquote>We’ve compiled a list of 176 sites that Zimdars and the other researchers who created the list rank as straight-up “fake news.”</blockquote>
 
 ## FactCheck.org ##
-Websites that Post Fake and Satirical Stories (2017-10-27 / 175 sites)  
-https://www.factcheck.org/wp-content/cache/wp-rocket/www.factcheck.org/2017/07/websites-post-fake-satirical-stories//index.html_gzip
+Misinformation Directory (2017-10-27, updated 2018-11-12 / 58 sites)  
+https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/
 
 <blockquote>We’ve compiled a list of websites that we know have carried fake or satirical articles. We hope it will serve as a reference for readers who may come across unfamiliar websites. This is not an exhaustive list. We will continue to update this list with more sites as we write about them.</blockquote>
 
@@ -62,14 +92,39 @@ https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Is It Fake News? ##
-Is It Fake News? (2018-01-01)  
+Is It Fake News? (2018-01-01, now offline)  
 https://isitfakenews.com/
+https://web.archive.org/web/20181101183030/https://isitfakenews.com/
 
 <blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
 
 Examples:  
 https://isitfakenews.com/search/Your+News+Wire
 https://isitfakenews.com/site/infowars.com
+
+## Lead Stories
+Old Network of Anti-Islam Fake News Websites Turns To Twitter Trolling (2018-11-27)  
+https://hoax-alert.leadstories.com/3469931-old-network-of-anti-islam-fake-news-websites-turns-to-twitter-trolling.html
+
+## Media Bias Fact Check
+Media Bias / Fact Check (2016-Present)
+https://mediabiasfactcheck.com/	701	455	266	247	1
+
+<blockquote>TWe are the most comprehensive media bias resource on the internet. There are currently 2600+ media sources listed in our database and growing every day. Don’t be fooled by Fake News sources. Use the search feature above (Header) to check the bias of any source. Use name or url.</blockquote>
+
+## MetaCert ##
+Check This by MetaCert (Chrome extension)
+https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en
+
+<blockquote>This extension will highlight Fake, Satire, Far-left, Far-right and Alt-right news so you can make better informed choices about the type of news you consume.…
+
+MetaCert aggregates all of the data provided by trusted, unbiased Fact Checkers such as Snopes, Politifact and Buzzfeed and puts it into a single database. 
+
+MetaCert then crawls, finds and labels the social media accounts that news sites own - in a way that no other company can. This is how we have the world's biggest database of classified news to help combat disinformation online through a powerful API.</blockquote>
+
+Related:  
+https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835  
+https://metacert.com/
 
 ## OpenSources.co ## 
 OpenSources: False, Misleading, Clickbait-y, and/or Satirical “News” Sources (2017-04-28 / 824 sites)   
@@ -85,15 +140,15 @@ https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
 ## PolitiFact ##
 PolitiFact's Fake News Almanac (2017-11-07 / 325 sites)  
-https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
+http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
 
 <blockquote>To help you better sort out fact from fiction on the Internet we created this list of websites where we've found  deliberately false or fake stories. This is by no means a complete list of offenders. Nor does it mean every post on these websites is fake. But in most cases, these sites work hard to fool readers, and you should take that into consideration if should you see a link being shared from one.</blockquote>
 
-Releated:  
-http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/  
+Releated:    
 http://www.politifact.com/punditfact/article/2017/jan/27/fact-checking-fake-news-reveals-how-hard-it-kill-p/  
 http://www.politifact.com/truth-o-meter/blog/2016/nov/16/lets-fight-back-against-fake-news/  
 http://www.politifact.com/subjects/fake-news/
+https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
 
 ## Snopes ##
 Snopes’ Field Guide to Fake News Sites and Hoax Purveyors (2017-12-08 / 23 sites)  
@@ -110,25 +165,5 @@ https://en.wikipedia.org/wiki/List_of_fake_news_websites
 <blockquote>This is a list of fake news sites. These sites intentionally, but not necessarily solely, publish hoaxes and disinformation for purposes other than news satire. Some of these sites use homograph spoofing attacks, typosquatting and other deceptive strategies similar to those used in phishing attacks to resemble genuine news outlets.</blockquote>
 
 <hr>
-Also see:
 
-## Claim Sources ##
-Claim Sources (2016-12-20 / 121 sites)  
-https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3UOg/edit#gid=1882442466
-
-<em>Compiles these lists: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
-
-## MetaCert ##
-Check This by MetaCert (Chrome extension)
-https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en
-
-<blockquote>This extension will highlight Fake, Satire, Far-left, Far-right and Alt-right news so you can make better informed choices about the type of news you consume.…
-
-MetaCert aggregates all of the data provided by trusted, unbiased Fact Checkers such as Snopes, Politifact and Buzzfeed and puts it into a single database. 
-
-MetaCert then crawls, finds and labels the social media accounts that news sites own - in a way that no other company can. This is how we have the world's biggest database of classified news to help combat disinformation online through a powerful API.</blockquote>
-
-Related:  
-https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835  
-https://metacert.com/
-
+(Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a> compilation of fact-checking steps collected from 20+ publishers.)
