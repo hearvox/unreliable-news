@@ -83,13 +83,16 @@ Key to lists:
 CredCo table:  
 https://airtable.com/shrTCnDfLO104Q1y2/tblYUxvktcvkXDrdY
 
+Factmata
+https://factmata.com/technology.html
+
 FakerFact (AI)
 https://www.fakerfact.org/
 
-https://trustedtimes.org/
-
+Trive (game?)
 https://trive.news/
 
+Trusted Times  (list: ?, 7500 news sites)
 https://trustedtimes.org/
 
 OwlFactor (MBFC, AllSides -- beign replaced by algo)  
