@@ -18,7 +18,6 @@ https://csmr.umich.edu/wp-content/uploads/2018/10/UMSI-CSMR-Iffy-Quotient-Whitep
 Trends in the Diffusion of Misinformation on Social Media (PF, OS, BF, FC, SN)
 https://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
-
 ## Browser extensions
 
 B.S. Detector (OS)
@@ -39,6 +38,24 @@ https://www.freedomforuminstitute.org/first-amendment-center/newstrition/
 Facebook is patenting a tool that could help automate removal of fake news  
 https://www.theverge.com/2016/12/7/13868650/facebook-fake-news-patent-tool-machine-learning-content
 
+Check This by MetaCert (MC)  
+https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835  
+https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en  
+MetaCert Protocol
+https://metacertprotocol.com/
+
+Trusted News for Google Chrome (MC)  
+https://trusted-news.com/
+
+NewsGuard (list: thir own)
+https://www.newsguardtech.com/
+
+Official Media Bias Fact Check Icon (MBFC)
+https://jeffreyatw.com/blog/2016/11/check-news-bias-with-a-simple-browser-icon/  
+https://mediabiasfactcheck.com/appsextensions/
+
+Read Across The Aisle (relative bias, *not* fake list)  
+http://www.readacrosstheaisle.com/
 
 ## Tools
 
