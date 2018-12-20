@@ -54,8 +54,8 @@ Official Media Bias Fact Check Icon (MBFC)
 https://jeffreyatw.com/blog/2016/11/check-news-bias-with-a-simple-browser-icon/  
 https://mediabiasfactcheck.com/appsextensions/
 
-Read Across The Aisle (relative bias, *not* fake list)  
-http://www.readacrosstheaisle.com/
+Read Across The Aisle (rates bias *not* fake)
+http://www.readacrosstheaisle.com/  
 
 ## Tools
 
@@ -77,3 +77,31 @@ Key to lists:
 * PolitiFact (PF)
 * Snopes (SN)
 * Wikipedia (WI)
+
+### Check
+
+CredCo table:  
+https://airtable.com/shrTCnDfLO104Q1y2/tblYUxvktcvkXDrdY
+
+FakerFact (AI)
+https://www.fakerfact.org/
+
+https://trustedtimes.org/
+
+https://trive.news/
+
+https://trustedtimes.org/
+
+OwlFactor (MBFC, AllSides -- beign replaced by algo)  
+https://www.owlfactor.com/
+
+AllSides (rates bias *not* fake)
+https://www.allsides.com/media-bias/media-bias-rating-methods  
+Ratings:
+https://www.allsides.com/media-bias/media-bias-ratings  
+Outlet examples:  
+https://www.allsides.com/news-source/daily-kos  
+https://www.allsides.com/news-source/daily-caller  
+https://www.allsides.com/news-source/judicial-watch
+
+
