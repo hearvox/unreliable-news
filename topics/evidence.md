@@ -40,7 +40,7 @@ Link to any fact-checking pages for unreliable sites at:
 - [ ] *To-do:*  Harvest tags/categories at fact-check sites (via WP REST API; wget for PF) then add archive URLs for any that match indexed sites.
 
 ## Tags
-- [ ] *To-do:*  Add tags for sites (if any) from:
+- [ ] *To-do:*  Add site tags (if any) from:
 * MetaCert (via their API)
 
 
