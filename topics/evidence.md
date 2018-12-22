@@ -1,7 +1,7 @@
 # Who says? 
 Ways to provide evidence and justification for declaring a site unreliable.
 
-## Merge and purge
+## Merge more sites
 
 The more fake-new lists that include a site, the more likley that site is fake news. (Caveat: some lists have identical sources.) The Unreliable News Sites (UNS) index at CJR merges five lists:
 <ul>
@@ -19,7 +19,7 @@ The more fake-new lists that include a site, the more likley that site is fake n
 * Media Bias/Fact Check (Qustionable Source and Conspriacy/Pseudoscience -- get levels)
 * Wikipedia 
 
-## Links to list pages
+## Link to site pages at lists
 Link to the following pages for each site (if one exists):
 * Factual News Search (if site has results)
 * Fake News Codex 
@@ -28,8 +28,8 @@ Link to the following pages for each site (if one exists):
 
 - [ ] *To-do:*  Harvest Wikipedia website pages from Wikipedia's <a href="">List of fake news websites</a>, OpenSources notes, and the Is It Fake News? database (site now offline).
 
-## Links to fact-checker pages
-Link to any fact-checking pages for unreliable sites at:
+## Links to fact-checker pages for sites
+Link to any fact-checking archives (e.g., tags) for unreliable sites at:
 * FactCheck.org
 * Lead Stories
 * MBFC (get site's levels for Conspiracy and Pseudoscience)
@@ -38,6 +38,7 @@ Link to any fact-checking pages for unreliable sites at:
 * Truth or Fiction
 
 - [ ] *To-do:*  Harvest tags/categories at fact-check sites (via WP REST API; wget for PF) then add archive URLs for any that match indexed sites.
+- [ ] *To-do:*  Talk to fact-checkers about tagging (machine-readable).
 
 ## Tags
 - [ ] *To-do:*  Add site tags (if any) from:
