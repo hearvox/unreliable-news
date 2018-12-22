@@ -12,7 +12,7 @@ The more fake-new lists that include a site, the more likley that site is fake n
   <li><a href="https://www.snopes.com/2016/01/14/fake-news-sites/">Snopes’ Field Guide to Fake News Sites and Hoax Purveyors</a> (SN)</li>
 </ul>
 
-- [ ]*To-do* Merge these lists (then purge inactive sites):
+- [ ] *To-do:* Merge these lists (then purge inactive sites):
 * BuzzFeed
 * Is It Fake News?
 * Lead Stories
@@ -26,7 +26,7 @@ Link to the following pages for each site (if one exists):
 * Media Bias/Fact Check (add Left or Right Bias)
 * Wikipedia
 
-- [ ] To-do: Harvest Wikipedia website pages from Wikipedia's <a href="">List of fake news websites</a>, OpenSources notes, and the Is It Fake News? database (site now offline).
+- [ ] *To-do:*  Harvest Wikipedia website pages from Wikipedia's <a href="">List of fake news websites</a>, OpenSources notes, and the Is It Fake News? database (site now offline).
 
 ## Links to fact-checker pages
 Link to any fact-checking pages for unreliable sites at:
@@ -37,10 +37,10 @@ Link to any fact-checking pages for unreliable sites at:
 * Snopes
 * Truth or Fiction
 
-- [ ] To-do: Harvest tags/categories at fact-check sites (via WP REST API; wget for PF) then add archive URLs for any that match indexed sites.
+- [ ] *To-do:*  Harvest tags/categories at fact-check sites (via WP REST API; wget for PF) then add archive URLs for any that match indexed sites.
 
 ## Tags
-- [ ] To-do: Add tags for sites (if any) from:
+- [ ] *To-do:*  Add tags for sites (if any) from:
 * MetaCert (via their API)
 
 
