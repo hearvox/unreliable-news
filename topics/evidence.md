@@ -12,7 +12,7 @@ The more fake-new lists that include a site, the more likley that site is fake n
   <li><a href="https://www.snopes.com/2016/01/14/fake-news-sites/">Snopes’ Field Guide to Fake News Sites and Hoax Purveyors</a> (SN)</li>
 </ul>
 
-- [ ] To-do: Merge these lists (then purge inactive sites):
+- [ ]*To-do* Merge these lists (then purge inactive sites):
 * BuzzFeed
 * Is It Fake News?
 * Lead Stories
