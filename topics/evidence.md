@@ -28,16 +28,16 @@ Link to the following pages for each site (if one exists):
 
 - [ ] *To-do:*  Harvest Wikipedia website pages from Wikipedia's <a href="">List of fake news websites</a>, OpenSources notes, and the Is It Fake News? database (site now offline).
 
-## Links to fact-checker pages for sites
-Link to any fact-checking archives (e.g., tags) for unreliable sites at:
-* FactCheck.org
-* Lead Stories
-* MBFC (get site's levels for Conspiracy and Pseudoscience)
-* PolitiFact
-* Snopes
-* Truth or Fiction
+## Links to fact-checker archives for sites
+Link to any fact-checking archives for unreliable sites at:
+* FactCheck.org (tags)
+* Lead Stories (search)
+* Media Bias/Fact Check (pages, get site's levels for Conspiracy and Pseudoscience)
+* PolitiFact ("People" pages)
+* Snopes (tags)
+* Truth or Fiction (tags?)
 
-- [ ] *To-do:*  Harvest tags/categories at fact-check sites (via WP REST API; wget for PF) then add archive URLs for any that match indexed sites.
+- [ ] *To-do:*  Harvest tags/categories at fact-check sites (via WP REST API or wget) then add archive URLs for any that match indexed sites.
 - [ ] *To-do:*  Talk to fact-checkers about tagging (machine-readable).
 
 ## Tags
