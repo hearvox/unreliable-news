@@ -9,4 +9,4 @@ An index of fake-news, clickbait, and hate websites, for Columbia Journalism Rev
 
 ## Topics (dir)
 * <a href="https://github.com/hearvox/unreliable-news/blob/master/topics/ad-fraud.md">Ad fraud schemes</a>
-* <a href="https://github.com/hearvox/unreliable-news/blob/master/topics/evidence.md">Evidence</a> (for declaring a site unreliable)
+* <a href="https://github.com/hearvox/unreliable-news/blob/master/topics/evidence.md">Who says?</a> (evdience for declaring a site unreliable)
