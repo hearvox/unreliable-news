@@ -2,7 +2,7 @@
 An index of fake-news, clickbait, and hate websites, for Columbia Journalism Review (to be published Jan. 2019).
 
 * <a href="https://github.com/hearvox/unreliable-news/projects/1">Project page</a>
-* <a href="https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/edit?usp=sharing">Unreliable News Sources (UNS) 201811</a> (data in Google spead sheet)
+* <a href="https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/edit?usp=sharing">Unreliable News Sources (UNS) 201811</a>: An index with data in Google speadsheet
 
 ## Lists
 * <a href="https://github.com/hearvox/unreliable-news/blob/master/lists/fake-news.md">Fake News site lists</a>
