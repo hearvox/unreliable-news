@@ -3,6 +3,8 @@ An index of fake-news, clickbait, and hate websites, for Columbia Journalism Rev
 
 * <a href="https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/edit?usp=sharing">Unreliable News Sources</a>: List and data in Google speadsheet (version 1.0, 2018-11)
 * <a href="https://github.com/hearvox/unreliable-news/projects/1">GitHub Project page</a>
+* <a href="https://docs.google.com/spreadsheets/d/1KrwCeg5hYRJ59fmg5qnXeM2KqDavbawTU0GgzHs7u4c/edit?usp=sharing">News site tags</a> : Tracking how we talk about fake news (Google sheet)
+
 
 ## Other Lists
 * <a href="https://github.com/hearvox/unreliable-news/blob/master/lists/fake-news-site-lists.md">Fake News site lists</a>
