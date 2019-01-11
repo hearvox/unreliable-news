@@ -4,6 +4,10 @@ Recent studies, brower extensions, and tools that relying on fake-news lists.
 
 ## Studies
 
+Less than you think: Prevalence and predictors of fake news dissemination on Facebook
+Science Advances  09 Jan 2019:
+http://advances.sciencemag.org/content/5/1/eaau4586
+
 The spread of low-credibility content by social bots (PF)  
 https://www.poynter.org/news/bots-spread-lot-fakery-during-2016-election-they-can-also-debunk-it
 https://arxiv.org/abs/1707.07592
