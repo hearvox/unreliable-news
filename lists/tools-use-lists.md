@@ -22,6 +22,9 @@ https://csmr.umich.edu/wp-content/uploads/2018/10/UMSI-CSMR-Iffy-Quotient-Whitep
 Trends in the Diffusion of Misinformation on Social Media (PF, OS, BF, FC, SN)
 https://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
+Predicting Factuality of Reporting and Bias of News Media Sources (Oct 2018)
+https://arxiv.org/pdf/1810.13078.pdf
+
 ## Browser extensions
 
 B.S. Detector (OS)
