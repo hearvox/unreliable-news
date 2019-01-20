@@ -1,4 +1,4 @@
-domain,name,type,fakenewscodexc_url,description,url,date
+domain,name,type,fake_news_codex_url,description,url,date
 12minutos.com,"12minutos.com",fake,http://www.fakenewscodex.com/fake-site/12minutos-com/,"Spanish clone version of React365, a &quot;prank&quot; website that allows users to create realistic-looking fake articles.",http://www.12minutos.com,"September 20, 2017"
 16wmpo.com,"16 WMPO",fake,http://www.fakenewscodex.com/fake-site/16-wmpo/,"Fake news site that is not associated with any TV or radio station, despite the name. The site’s disclaimer page states flatly that the site is a satire and...",http://16wmpo.com,"September 18, 2017"
 20minutenews.com,"20MinuteNews",fake,http://www.fakenewscodex.com/fake-site/20minutenews/,"Clickbait site that often includes dubiously sourced or entirely invented stories. The site is part of what BuzzFeed News calls the &quot;Celebtricity Network.&quot;...",http://20minutenews.com,"September 25, 2017"
