@@ -23,9 +23,11 @@ This page links to lists of fake news sites published by:
 <em>* CSV copy of data in this folder, with date of last access)</em>
 
 <hr>
-(<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">Our CSV</a> merges Buzzfeed lists from 2016, 2017, ans 2018.)
+
 
 ## BuzzFeed
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">Our CSV</a> merges Buzzfeed lists from 2016, 2017, ans 2018.]</em>
+
 8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation (2018-12-27)  
 Craig Silverman  
 https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown
@@ -50,6 +52,8 @@ http://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
 
 ## Claim Sources ##
+<em>[Data from other lists. Used by Hoaxy]</em>
+
 Claim Sources (2016-12-20 / 121 sites)  
 Data:  
 https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3UOg/edit#gid=1882442466
@@ -63,12 +67,16 @@ https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 <blockquote>We’ve compiled a list of 176 sites that Zimdars and the other researchers who created the list rank as straight-up “fake news.”</blockquote>
 
 ## FactCheck.org ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/factcheck-org-2018.csv">FactCheck.org CSV above</a> from last update of article, 2018-11.]</em>
+
 Misinformation Directory (2017-10-27, updated 2018-11-12 / 58 sites)  
 https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/
 
 <blockquote>We’ve compiled a list of websites that we know have carried fake or satirical articles. We hope it will serve as a reference for readers who may come across unfamiliar websites. This is not an exhaustive list. We will continue to update this list with more sites as we write about them.</blockquote>
 
 ## Fake News Codex  ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/fake-news-codex-2018-06.csv">Fake News Codex CSV above</a> last accessed 2018-06.]</em>
+
 The Fake News Codex (2018-05-10 / 197 sites)   
 http://www.fakenewscodex.com/
 
@@ -81,6 +89,8 @@ http://www.fakenewscodex.com/fake-site/freedum-junkshun/
 http://www.fakenewscodex.com/fake-site/infowars/
 
 ## Fake News Watch ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/fake-news-watch-2016-01.csv">Fake News Watch CSV above</a> from last update before site went offline.]</em>
+
 Fake News Watch (2016-01-18 / 87 sites)  
 https://web.archive.org/web/20180213181029/http://fakenewswatch.com/
 
@@ -96,6 +106,8 @@ https://docs.google.com/spreadsheets/d/1xDDmbr54qzzG8wUrRdxQl_C1dixJSIYqQUaXVZBq
 <em>No info on mehtodology in Google sheet. No connected viz found at IIB.</em>
 
 ## Junk News Aggregator
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/junk-news-aggregator-2018-01.csv">Junk News Aggregator CSV above</a> from list accessed in 2018 — unclear when list was last updated.]</em>
+
 Junk News Aggregator: 50 junk news sites  
 https://newsaggregator.oii.ox.ac.uk/methodology.php  
 Junk News Classification  
@@ -110,6 +122,8 @@ Data:
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Is It Fake News? ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/is-it-fake-news-2018-11.csv">Is It Fake News? CSV above</a> from site's database (sent to us by owner), before it went offline, 2018-11.]</em>
+
 Is It Fake News? (2018-01-01, now offline)  
 https://isitfakenews.com/
 https://web.archive.org/web/20181101183030/https://isitfakenews.com/
@@ -135,6 +149,8 @@ https://mediabiasfactcheck.com/	701	455	266	247	1
 <blockquote>TWe are the most comprehensive media bias resource on the internet. There are currently 2600+ media sources listed in our database and growing every day. Don’t be fooled by Fake News sources. Use the search feature above (Header) to check the bias of any source. Use name or url.</blockquote>
 
 ## MetaCert ##
+<em>[Data accessed via API.]</em>
+
 Check This by MetaCert (Chrome extension)
 https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en
 
@@ -148,7 +164,9 @@ Related:
 https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835  
 https://metacert.com/
 
-## OpenSources.co ## 
+## OpenSources ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/opensources-2017-04.csv">OpenSources CSV above</a> from last update of list, 2017-04.]</em>
+
 OpenSources: False, Misleading, Clickbait-y, and/or Satirical “News” Sources (2017-04-28 / 824 sites)   
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
@@ -162,7 +180,10 @@ Data:
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 
 ## PolitiFact ##
+
 PolitiFact's Fake News Almanac (2017-11-07 / 325 sites)  
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/politifact-2017-11.csv">PolitiFact CSV above</a> from last update of list, 2017-11.]</em>
+
 http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
 
 <blockquote>To help you better sort out fact from fiction on the Internet we created this list of websites where we've found  deliberately false or fake stories. This is by no means a complete list of offenders. Nor does it mean every post on these websites is fake. But in most cases, these sites work hard to fool readers, and you should take that into consideration if should you see a link being shared from one.</blockquote>
@@ -175,6 +196,8 @@ Data:
 https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
 
 ## Snopes ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/snopes-2017-12.csv">Snopes CSV above</a> from last update of article, 2017-12.]</em>
+
 Snopes’ Field Guide to Fake News Sites and Hoax Purveyors (2017-12-08 / 23 sites)  
 https://www.snopes.com/2016/01/14/fake-news-sites/
 
@@ -186,7 +209,9 @@ So long as social media allows for the rapid spread of information, manipulative
 SPLC hate groups:
 https://www.splcenter.org/fighting-hate/extremist-files/groups
 
-## Wikipedia ## 
+## Wikipedia ##
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/wikipedia-2018-11.tsv">Wikipedia CSV above</a> adapted from HTML table, last accessed 2018-11.]</em>
+
 List of fake news websites (2018-06-20 / 76 sites)  
 https://en.wikipedia.org/wiki/List_of_fake_news_websites
 
