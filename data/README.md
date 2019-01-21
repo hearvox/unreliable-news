@@ -20,9 +20,10 @@ This page links to lists of fake news sites published by:
   <li>Wikipedia <em>(* 2018-11)</em></li>
 </ol>
 
-<em>(* CSV copy of data in this folder, with date of last access)</em>
+<em>* CSV copy of data in this folder, with date of last access)</em>
 
 <hr>
+(<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">Our CSV</a> merges Buzzfeed lists from 2016, 2017, ans 2018.)
 
 ## BuzzFeed
 8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation (2018-12-27)  
