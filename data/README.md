@@ -2,25 +2,25 @@
 
 This page links to lists of fake news sites published by:
 <ol>
-  <li>BuzzFeed *(* 2018-12)*</li>
+  <li>BuzzFeed _(* 2018-12)_</li>
   <li>Claim Sources</li>
   <li>Daily Dot</li>
-  <li>Fake News Codex *(* 2018-06)*</li>
-  <li>FactCheck.org *(* 2018-11)*</li>  
-  <li>Fake News Watch *(* 2016-01, now offline)*</li>
+  <li>Fake News Codex _(* 2018-06)_</li>
+  <li>FactCheck.org _(* 2018-11)_</li>  
+  <li>Fake News Watch _(* 2016-01, now offline)_</li>
   <li>information is beautifu</li>
-  <li>Is It Fake News? *(* 2018-11, now offline)*</li>
-  <li>Junk News Aggregator *(* 2018-06)*</li>
+  <li>Is It Fake News? _(* 2018-11, now offline)_</li>
+  <li>Junk News Aggregator _(* 2018-06)_</li>
   <li>Lead Stories</li>
   <li>Media Bias / Fact Check</li>
   <li>MetaCert</li>
-  <li>OpenSources *(* 2018-06)*</li>
-  <li>PolitiFact *(* 2017-11, most recent update)*</li>
-  <li>Snopes *(* 2017-12, most recent update)*</li>
-  <li>Wikipedia *(* 2018-11)*</li>
+  <li>OpenSources _(* 2018-06)_</li>
+  <li>PolitiFact _(* 2017-11, most recent update)_</li>
+  <li>Snopes _(* 2017-12, most recent update)_</li>
+  <li>Wikipedia _(* 2018-11)_</li>
 </ol>
 
-<em>(* CSV copy of data in this folder, with date of last access)</em>
+_(* CSV copy of data in this folder, with date of last access)_
 
 <hr>
 
