@@ -52,7 +52,7 @@ http://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
 
 ## Claim Sources ##
-<em>[Data from other lists. Used by Hoaxy]</em>
+<em>[Data all from other lists. Used by Hoaxy]</em>
 
 Claim Sources (2016-12-20 / 121 sites)  
 Data:  
@@ -60,7 +60,15 @@ https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3
 
 <em>Compiles these lists: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
 
+Hoaxy (Indiana University tool: "Visualize the spread of claims and fact checking") uses Claim Sources list:    
+https://hoaxy.iuni.iu.edu/faq.html#faq-q2  
+"Low-credibility sources that often publish inaccurate, unverified, or satirical claims according to lists compiled and published by reputable news and fact-checking organizations."
+Hoaxy team, OSoMe (Observatory on Social Media):  
+https://osome.iuni.iu.edu/contact/
+
 ## Daily Dot ##
+<em>[Data all from other lists.]</em>
+
 Here are all the ‘fake news’ sites to watch out for on Facebook (2017-10-27 / 175 sites)  
 https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 
@@ -100,10 +108,17 @@ Link above is Internet Archive copy. Original site is inactive:
 http://fakenewswatch.com/
 
 ## information is beautiful ##
+<em>[Data all from other lists.]</em>
+
 Unreliable / Fake News Sites & Sources (2016-12-01 / 408 sites)  
 https://docs.google.com/spreadsheets/d/1xDDmbr54qzzG8wUrRdxQl_C1dixJSIYqQUaXVZBqsJs/edit#gid=1337422806
 
-<em>No info on mehtodology in Google sheet. No connected viz found at IIB.</em>
+Related:  
+https://www.informationisbeautiful.net/  
+Viz and data:  
+https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/  
+Data:  
+https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Junk News Aggregator
 <em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/junk-news-aggregator-2018-01.csv">Junk News Aggregator CSV</a> above from list accessed in 2018 — unclear when list was last updated.]</em>
@@ -113,13 +128,6 @@ https://newsaggregator.oii.ox.ac.uk/methodology.php
 Junk News Classification  
 http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews-OnlineSupplement.pdf  
 (Computational Propaganda group (COMPROP) of the Oxford Internet Institute (OII) at the University of Oxford)
-
-Related:  
-https://www.informationisbeautiful.net/  
-Viz and data:  
-https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/  
-Data:  
-https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Is It Fake News? ##
 <em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/is-it-fake-news-2018-11.csv">Is It Fake News? CSV</a> above from site's database (sent to us by owner), before it went offline, 2018-11.]</em>
