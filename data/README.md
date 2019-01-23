@@ -20,13 +20,13 @@ This page links to lists of fake news sites published by:
   <li>Wikipedia <em>(* 2018-11)</em></li>
 </ol>
 
-<em>* CSV copy of data in this folder, with date of last access)</em>
+<em>(* = CSV copy in <a href""><code>/data/<code> folder</a> and date of last access)</em>
 
 <hr>
 
 
 ## BuzzFeed
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">BuzzFeed CSV</a> above merges  lists from 2016, 2017, ans 2018.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">BuzzFeed CSV</a> merges  lists from 2016, 2017, ans 2018.]</em>
 
 8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation (2018-12-27)  
 Craig Silverman  
@@ -75,7 +75,7 @@ https://www.dailydot.com/layer8/fake-news-sites-list-facebook/
 <blockquote>We’ve compiled a list of 176 sites that Zimdars and the other researchers who created the list rank as straight-up “fake news.”</blockquote>
 
 ## FactCheck.org ##
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/factcheck-org-2018.csv">FactCheck.org CSV</a> above from last update of article, 2018-11.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/factcheck-org-2018.csv">FactCheck.org CSV</a> from last update of article, 2018-11.]</em>
 
 Misinformation Directory (2017-10-27, updated 2018-11-12 / 58 sites)  
 https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/
@@ -83,7 +83,7 @@ https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/
 <blockquote>We’ve compiled a list of websites that we know have carried fake or satirical articles. We hope it will serve as a reference for readers who may come across unfamiliar websites. This is not an exhaustive list. We will continue to update this list with more sites as we write about them.</blockquote>
 
 ## Fake News Codex  ##
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/fake-news-codex-2018-06.csv">Fake News Codex CSV</a> above last accessed 2018-06.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/fake-news-codex-2018-06.csv">Fake News Codex CSV</a> last accessed 2018-06.]</em>
 
 The Fake News Codex (2018-05-10 / 197 sites)   
 http://www.fakenewscodex.com/
@@ -97,7 +97,7 @@ http://www.fakenewscodex.com/fake-site/freedum-junkshun/
 http://www.fakenewscodex.com/fake-site/infowars/
 
 ## Fake News Watch ##
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/fake-news-watch-2016-01.csv">Fake News Watch CSV</a> above from last update before site went offline.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/fake-news-watch-2016-01.csv">Fake News Watch CSV</a> from last update before site went offline.]</em>
 
 Fake News Watch (2016-01-18 / 87 sites)  
 https://web.archive.org/web/20180213181029/http://fakenewswatch.com/
@@ -121,7 +121,7 @@ Data:
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
 ## Junk News Aggregator
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/junk-news-aggregator-2018-01.csv">Junk News Aggregator CSV</a> above from list accessed in 2018 — unclear when list was last updated.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/junk-news-aggregator-2018-01.csv">Junk News Aggregator CSV</a>  from list accessed in 2018 — unclear when list was last updated.]</em>
 
 Junk News Aggregator: 50 junk news sites  
 https://newsaggregator.oii.ox.ac.uk/methodology.php  
@@ -130,7 +130,7 @@ http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Par
 (Computational Propaganda group (COMPROP) of the Oxford Internet Institute (OII) at the University of Oxford)
 
 ## Is It Fake News? ##
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/is-it-fake-news-2018-11.csv">Is It Fake News? CSV</a> above from site's database (sent to us by owner), before it went offline, 2018-11.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/is-it-fake-news-2018-11.csv">Is It Fake News? CSV</a> from site's database (sent to us by owner), before it went offline, 2018-11.]</em>
 
 Is It Fake News? (2018-01-01, now offline)  
 https://isitfakenews.com/
@@ -156,6 +156,12 @@ https://mediabiasfactcheck.com/	701	455	266	247	1
 
 <blockquote>TWe are the most comprehensive media bias resource on the internet. There are currently 2600+ media sources listed in our database and growing every day. Don’t be fooled by Fake News sources. Use the search feature above (Header) to check the bias of any source. Use name or url.</blockquote>
 
+MBFC data 2018-08:
+https://github.com/ramybaly/News-Media-Reliability/blob/master/data/corpus.csv
+from this study:
+Predicting Factuality of Reporting and Bias of News Media Sources
+https://admin.govexec.com/media/emnlp-2018-predicting.pdf
+
 ## MetaCert ##
 <em>[Data accessed via API.]</em>
 
@@ -173,7 +179,7 @@ https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-new
 https://metacert.com/
 
 ## OpenSources ##
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/opensources-2017-04.csv">OpenSources CSV</a> above from last update of list, 2017-04.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/opensources-2017-04.csv">OpenSources CSV</a> from last update of list, 2017-04.]</em>
 
 OpenSources: False, Misleading, Clickbait-y, and/or Satirical “News” Sources (2017-04-28 / 824 sites)   
 https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
@@ -190,7 +196,7 @@ https://github.com/BigMcLargeHuge/opensources/blob/master/sources/sources.csv
 ## PolitiFact ##
 
 PolitiFact's Fake News Almanac (2017-11-07 / 325 sites)  
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/politifact-2017-11.csv">PolitiFact CSV</a> above from last update of list, 2017-11.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/politifact-2017-11.csv">PolitiFact CSV</a> from last update of list, 2017-11.]</em>
 
 http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
 
@@ -204,7 +210,7 @@ Data:
 https://infogram.com/politifacts-fake-news-almanac-1gew2vjdxl912nj
 
 ## Snopes ##
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/snopes-2017-12.csv">Snopes CSV</a> above from last update of article, 2017-12.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/snopes-2017-12.csv">Snopes CSV</a> from last update of article, 2017-12.]</em>
 
 Snopes’ Field Guide to Fake News Sites and Hoax Purveyors (2017-12-08 / 23 sites)  
 https://www.snopes.com/2016/01/14/fake-news-sites/
