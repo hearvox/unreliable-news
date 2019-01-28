@@ -28,22 +28,22 @@ This page links to lists of fake news sites published by:
 ## BuzzFeed
 <em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">BuzzFeed CSV</a> merges  lists from 2016, 2017, ans 2018.]</em>
 
-8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation (2018-12-27)  
-Craig Silverman  
+8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation  
+Craig Silverman (2018-12-27)  
 https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown
 
-These are 50 of the biggest fake news hits on Facebook in 2017 (2017-12-17)  
-Silverman C, Lytvynenko J, Pham S. T.
+These are 50 of the biggest fake news hits on Facebook in 2017    
+Silverman C, Lytvynenko J, Pham S. T. (2017-12-17)  
 https://www.buzzfeednews.com/article/craigsilverman/these-are-50-of-the-biggest-fake-news-hits-on-facebook-in  
 https://github.com/BuzzFeedNews/2017-12-fake-news-top-50
 
-In spite of the crackdown, fake news publishers are still earning money from major ad networks (2017-04-04)
-Silverman C, Singer-Vine J, Vo LT    
+In spite of the crackdown, fake news publishers are still earning money from major ad networks  
+Silverman C, Singer-Vine J, Vo LT (2017-04-04)     
 https://www.buzzfeednews.com/article/craigsilverman/fake-news-real-ads  
 https://docs.google.com/spreadsheets/d/1sVFSHM7aITXE4QMNA7NIyPI8uYR1NHFiHHAMj5q3vKU/edit#gid=0
 
-Here are 50 of the biggest fake news hits on Facebook from 2016 (2016-12-30)  
-Silverman C (2016) 
+Here are 50 of the biggest fake news hits on Facebook from 2016  
+Silverman C (2016-12-30)   
 https://www.buzzfeednews.com/article/craigsilverman/top-fake-news-of-2016  
 https://docs.google.com/spreadsheets/d/1sTkRkHLvZp9XlJOynYMXGslKY9fuB_e-2mrxqgLwvZY/edit#gid=652144590
 
@@ -52,7 +52,7 @@ http://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
 
 ## Claim Sources
-<em>[Data all from other lists. Used by Hoaxy]</em>
+<em>[Data all from other lists.]</em>
 
 Claim Sources (2016-12-20 / 121 sites)  
 Data:  
@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3
 
 <em>Compiles these lists: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
 
-Hoaxy (Indiana University tool: "Visualize the spread of claims and fact checking") uses Claim Sources list:    
+Used by: Hoaxy (Indiana University tool: "Visualize the spread of claims and fact checking") uses Claim Sources list:    
 https://hoaxy.iuni.iu.edu/faq.html#faq-q2  
 "Low-credibility sources that often publish inaccurate, unverified, or satirical claims according to lists compiled and published by reputable news and fact-checking organizations."
 Hoaxy team, OSoMe (Observatory on Social Media):  
