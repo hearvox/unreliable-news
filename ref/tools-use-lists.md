@@ -1,10 +1,10 @@
 # Studies and tools using lists
 
-Researchers rely on existling unreliable-news site lists for their studies. But these lists are often out-of-date and incomplete, so their reseach results and conlcusions may be flawed.
+Researchers rely on existling lists of unreliable-news sites for their studies. But these lists are often out-of-date and incomplete, so their research may lead to flawed conclusions.
 
-Two of the most frequently used lists are PolitiFact's Fake News Almanac and OpenSources. Both were last updated in 2017. More than half the sites listed are no longer active; many newer active sites aren't listed.
+Here's how that error could easily happen: Two frequently used lists are PolitiFact's Fake News Almanac and OpenSources. Both haven't been updated since 2018. Say you used these lists to compare the counts of social media shares from fake-news site articles in 2016 with those in 2018. If you found twice as many shares in 2016 compared to 2018, you might conclude 2018 had half as much fake-news sharing as 2016. You'd probably be wrong. 
 
-Say you used these lists to compare social media shares from fake-news site articles in the years 2016 and 2018. All things being equal (which, of course, they're not), because half the sites that existed in 2016 were gone in 2018, for the shares to stay steady in those two years, you'd expect to see only half the shares in 2018 comapred to 2016. But the researchers that have done similar studies did not factor this in. 
+It's more likely the number of shares stayed steady. Half the sites listed in 2016 were gone in 2018. So, for sharing to remain steady, you'd expect to seee about half the shares in 2018 as in 2016 (all other factors being equal — which, of course, they're not.)
 
 
 ## Studies
