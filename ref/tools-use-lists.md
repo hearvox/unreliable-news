@@ -102,39 +102,5 @@ Key to lists:
 * Snopes (SN)
 * Wikipedia (WI)
 
-### Check
-
-AllSides (rates bias *not* fake)
-https://www.allsides.com/media-bias/media-bias-rating-methods  
-Ratings:
-https://www.allsides.com/media-bias/media-bias-ratings  
-Outlet examples:  
-https://www.allsides.com/news-source/daily-kos  
-https://www.allsides.com/news-source/daily-caller  
-https://www.allsides.com/news-source/judicial-watch
-
-CredCo table https://airtable.com/shrTCnDfLO104Q1y2/tblYUxvktcvkXDrdY
-
-Factmata https://factmata.com/technology.html
-
-FakerFact (AI) https://www.fakerfact.org/
-
-Trive (game?) https://trive.news/
-
-Trusted Times  (list: ?, 7500 news sites) https://trustedtimes.org/
-
-OwlFactor (MBFC, AllSides -- beign replaced by algo)  https://www.owlfactor.com/
-
-<hr>
-
-DeepNews.ai https://www.deepnews.ai/
-
-CredWeb https://credweb.org/
-
-NuzzelRank https://blog.nuzzel.com/nuzzelrank/  
-https://nuzzel.com/rank
-
-Storyful https://storyful.com/
-
 
 
