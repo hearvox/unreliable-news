@@ -233,3 +233,35 @@ https://en.wikipedia.org/wiki/List_of_fake_news_websites
 <hr>
 
 (Also see the <a href="https://github.com/hearvox/Research/blob/master/News-Trust/news-verification-checklists.md">News verification checklists</a> compilation of fact-checking steps collected from 20+ publishers.)
+
+### Check
+
+AllSides (rates bias *not* fake): https://www.allsides.com/media-bias/media-bias-rating-methods  
+Ratings: https://www.allsides.com/media-bias/media-bias-ratings  
+Outlet examples:  
+https://www.allsides.com/news-source/daily-kos  
+https://www.allsides.com/news-source/daily-caller  
+https://www.allsides.com/news-source/judicial-watch
+
+CredCo table: https://airtable.com/shrTCnDfLO104Q1y2/tblYUxvktcvkXDrdY
+
+Factmata: https://factmata.com/technology.html
+
+FakerFact (AI): https://www.fakerfact.org/
+
+Trive (game?): https://trive.news/
+
+Trusted Times (list: ?, 7500 news sites): https://trustedtimes.org/
+
+OwlFactor (MBFC, AllSides -- beign replaced by algo):  https://www.owlfactor.com/
+
+<hr>
+
+DeepNews.ai: https://www.deepnews.ai/
+
+CredWeb: https://credweb.org/
+
+NuzzelRank: https://blog.nuzzel.com/nuzzelrank/  
+https://nuzzel.com/rank
+
+Storyful: https://storyful.com/
