@@ -37,7 +37,7 @@ https://www.poynter.org/news/bots-spread-lot-fakery-during-2016-election-they-ca
 https://arxiv.org/abs/1707.07592
 
 CJR/Tow Ctr coverage of studies (that use uotdated fake-news site datasets):<br>
-https://www.cjr.org/innovations/study-partisan-trust-media.php<br><br>
+https://www.cjr.org/innovations/study-partisan-trust-media.php<br>
 https://www.cjr.org/analysis/fake-news-facebook-audience-drudge-breitbart-study.php<br>
 https://www.cjr.org/the_new_gatekeepers/chrome-plugin-fake-news.php<br>
 https://www.cjr.org/tow_center_reports/partnership-press-facebook-news-outlets-team-fight-misinformation.php
@@ -74,7 +74,7 @@ https://trusted-news.com/
 NewsGuard (list: thir own)
 https://www.newsguardtech.com/
 
-Official Media Bias Fact Check Icon (MBFC)
+Official Media Bias Fact Check Icon (MBFC)<br>
 https://jeffreyatw.com/blog/2016/11/check-news-bias-with-a-simple-browser-icon/  
 https://mediabiasfactcheck.com/appsextensions/
 
