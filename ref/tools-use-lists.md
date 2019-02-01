@@ -29,10 +29,13 @@ https://csmr.umich.edu/wp-content/uploads/2018/10/UMSI-CSMR-Iffy-Quotient-Whitep
 Trends in the Diffusion of Misinformation on Social Media (PF, OS, BF, FC, SN; 2018-10)
 https://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
-A Large-scale Study of Social Media Sources in News Articles (2018-10)  
+A Large-scale Study of Social Media Sources in News Articles (IIB, OS, WI; 2018-10)  
 https://arxiv.org/pdf/1810.13078.pdf
 
-The spread of low-credibility content by social bots (PFl 2018-05)  
+Predicting Factuality of Reporting and Bias of News Media Sources (MBFC; 2018-10) 
+https://admin.govexec.com/media/emnlp-2018-predicting.pdf
+
+The spread of low-credibility content by social bots (PF 2018-05)  
 https://www.poynter.org/news/bots-spread-lot-fakery-during-2016-election-they-can-also-debunk-it
 https://arxiv.org/abs/1707.07592
 
@@ -94,6 +97,7 @@ Key to lists:
 * BuzzFeed (BF)
 * Fake News Codex (FNC)
 * FactCheck.org (FC)
+* Information is Beautiful (IIB)
 * Is It Fake News? (IIFN)
 * Media Bias / Fact Check (MBFC)
 * MetaCert (MC)
@@ -102,5 +106,5 @@ Key to lists:
 * Snopes (SN)
 * Wikipedia (WI)
 
-
+Details at: <a href="https://github.com/hearvox/unreliable-news/tree/master/data">Fake and Unreliable News Sites</a>)
 
