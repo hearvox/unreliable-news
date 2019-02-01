@@ -6,31 +6,41 @@ Here's how that error could easily happen: Two frequently used lists are PolitiF
 
 More likely the number of shares stayed steady. Half the sites listed in 2016 were gone in 2018. So you'd expect to see about half the shares in 2018 as 2016 if sharing remained the same,  (all other factors being equal — which, of course, they're not.) Your conclusion would have made things look good, when, if fact, there as miserable as ever.
 
-
-## Studies
-
 *Recent studies, brower extensions, and tools that relying on fake-news lists:*
 
-Less than you think: Prevalence and predictors of fake news dissemination on Facebook
-Science Advances  09 Jan 2019:
+## Studies
+Fighting misinformation on social media using crowdsourced judgments of news source quality (BF, OS, PF, SN; 2019-01-28)<br>
+https://www.pnas.org/content/early/2019/01/14/1806781116
+
+Fake news on Twitter during the 2016 U.S. presidential election (BF, FC, PF; 2019-01)<br>
+http://science.sciencemag.org/content/363/6425/374<br>
+http://science.sciencemag.org/highwire/filestream/721809/field_highwire_adjunct_files/0/aau2706_Grinberg_SM.pdf
+
+Less than you think: Prevalence and predictors of fake news dissemination on Facebook (BF, OS; 2019-01)<br>
 http://advances.sciencemag.org/content/5/1/eaau4586
 
-The spread of low-credibility content by social bots (PF)  
-https://www.poynter.org/news/bots-spread-lot-fakery-during-2016-election-they-can-also-debunk-it
-https://arxiv.org/abs/1707.07592
-
-DISINFORMATION, ‘FAKE NEWS’ AND INFLUENCE CAMPAIGNS ON TWITTER (OS, MBFC)  
+DISINFORMATION, ‘FAKE NEWS’ AND INFLUENCE CAMPAIGNS ON TWITTER (OS, MBFC; 2018-10)  
 https://knightfoundation.org/reports/disinformation-fake-news-and-influence-campaigns-on-twitter
 
-Iffy Quotient: A Platform Health Metric for Misinformation (OS, MBFC)  
+Iffy Quotient: A Platform Health Metric for Misinformation (OS, MBFC; 2018-10)  
 https://newsroom.fb.com/news/2018/10/inside-feed-michigan-lemonde/  
 https://csmr.umich.edu/wp-content/uploads/2018/10/UMSI-CSMR-Iffy-Quotient-Whitepaper-810084.pdf
 
-Trends in the Diffusion of Misinformation on Social Media (PF, OS, BF, FC, SN)
+Trends in the Diffusion of Misinformation on Social Media (PF, OS, BF, FC, SN; 2018-10)
 https://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
 
-A Large-scale Study of Social Media Sources in News Articles (Oct 2018)  
+A Large-scale Study of Social Media Sources in News Articles (2018-10)  
 https://arxiv.org/pdf/1810.13078.pdf
+
+The spread of low-credibility content by social bots (PFl 2018-05)  
+https://www.poynter.org/news/bots-spread-lot-fakery-during-2016-election-they-can-also-debunk-it
+https://arxiv.org/abs/1707.07592
+
+CJR/Tow Ctr coverage of studies (that use uotdated fake-news site datasets):<br>
+https://www.cjr.org/innovations/study-partisan-trust-media.php<br><br>
+https://www.cjr.org/analysis/fake-news-facebook-audience-drudge-breitbart-study.php<br>
+https://www.cjr.org/the_new_gatekeepers/chrome-plugin-fake-news.php<br>
+https://www.cjr.org/tow_center_reports/partnership-press-facebook-news-outlets-team-fight-misinformation.php
 
 ## Browser extensions
 
