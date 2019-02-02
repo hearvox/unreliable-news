@@ -32,15 +32,15 @@ API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
 Domain info, for fact-echeck: domain 	(HTML filename: {DOMAIN_NAME} - WHOIS & Domain Info - DomainBigData.html)<br>
 Tool: https://domainbigdata.com/{DOMAIN_NAME}
 
-**Editor &amp; Publisher: Databook** http://www.editorandpublisher.com/databook/
-E&amp;P's online newspaper database (25K company records).
+**Editor &amp; Publisher: Databook** http://www.editorandpublisher.com/databook/<br>
+E&amp;P's online newspaper database (25K company records).<br>
 Tool: http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874
 
-**Factual News Search** https://factualsearch.news/
-Google Custom Search Engine, returns Media Bias/Fact Check tags and fact-checks of site articles:  
+**Factual News Search** https://factualsearch.news/<br>
+Google Custom Search Engine, returns Media Bias/Fact Check tags and fact-checks of site articles.<br>  
 Tool: https://factualsearch.news/#gsc.tab=0&gsc.sort=&gsc.ref=fact_checking&gsc.q=%20{DOMAIN_NAME}%20
 
-**Google PageSpeed Insights** https://developers.google.com/speed/pagespeed/insights/
+**Google PageSpeed Insights** https://developers.google.com/speed/pagespeed/insights/<br>
 Page performance, with Desktop and Mobile Score, page-weight, DOM els (JSON).<br>
 Docs: https://developers.google.com/speed/docs/insights/v5/about<br>
 API: https://www.googleapis.com/pagespeedonline/v2/runPagespeed?strategy={desktop||mobile}&key={KEY}&url={URL}
@@ -48,8 +48,8 @@ API: https://www.googleapis.com/pagespeedonline/v2/runPagespeed?strategy={deskto
 **MetaCert** https://metacertprotocol.com/ <br>
 Site category (e.g., "news", "fake-news", "satire"). Uses HTTP Post. Returns:<br>
 <code>{"status":{"code":200,"message":"OK"},"data":{"URLs":[],"Folders":[],"Domains":[{"domain":"{DOMAIN_NAME}","type":"fake-news"}]}}</code><br>
-Info: https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835
-Extensiion: https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en
+Info: https://medium.com/@Paul__Walsh/mock-this-chrome-extension-takes-aim-at-fake-news-c407320f2835<br>
+Extensiion: https://chrome.google.com/webstore/detail/check-this-by-metacert/felmjclcjadopolhjmlbemfekjaojfbn?hl=en<br>
 Docs: https://developer.metacert.com/api-documentation/getting-started/<br>
 Send custom headers:<br>
 <code>"apikey": "{API_KEY}"</code><br>
@@ -58,34 +58,33 @@ Send json Post data:<br>
 <code>{"url" : "{DOMAIN_NAME}"}</code><br>
 API: https://dev.metacert.com/v5/check/
 
-**Quantcast** https://www.quantcast.com/
-Docs: http://developer.quantcast.com/docs
+**Quantcast** https://www.quantcast.com/<br>
+Docs: http://developer.quantcast.com/docs<br>
 Tool (login requites): https://www.quantcast.com/{DOMAIN_NAME}
 
-**Spamhaus** (php script, see: APIs/spamhaus.php)	
-Spamhaus DBL: https://www.spamhaus.org/faq/section/Spamhaus%20DBL
-API Return codes: https://www.spamhaus.org/faq/section/Spamhaus%20DBL#291
-PHP: https://lockergnome.com/2012/04/23/checking-a-domain-against-the-spamhaus-dbl-in-php/
+**Spamhaus** (php script, see: APIs/spamhaus.php)<br>
+Spamhaus DBL: https://www.spamhaus.org/faq/section/Spamhaus%20DBL<br>
+API Return codes: https://www.spamhaus.org/faq/section/Spamhaus%20DBL#291<br>
+PHP: https://lockergnome.com/2012/04/23/checking-a-domain-against-the-spamhaus-dbl-in-php/<br>
 PYTHON: https://pypi.org/project/surblclient/
 
-**Spyonweb.com** https://spyonweb.com/
-Domain info, inc. related IP and Google IDs (Adsense and Analytics).
-Docs: https://api.spyonweb.com/v1/docs
+**Spyonweb.com** https://spyonweb.com/<br>
+Domain info, inc. related IP and Google IDs (Adsense and Analytics).<br>
+Docs: https://api.spyonweb.com/v1/docs<br>
 API: https://api.spyonweb.com/v1/summary/{DOMAIN_NAME}?access_token={TOKEN}
 
-**Wayback Machine** https://web.archive.org
-Docs: https://archive.org/help/wayback_api.php
-API- Save in Archive: https://web.archive.org/save/{URL}
+**Wayback Machine** https://web.archive.org<br>
+Docs: https://archive.org/help/wayback_api.php<br>
+API- Save in Archive: https://web.archive.org/save/{URL}<br>
 Tool- View archives: http://web.archive.org/web/\*/{URL}
 
-**WebFX** https://www.webfx.com/tools/
-Readability tests, inc. grade level, complex words, syllables/word (HTML filename: Readability Test Results for {DOMAIN_NAME}.html)
-https://www.webfx.com/tools/read-able/
-Tool: https://www.webpagefx.com/tools/read-able/check.php?tab=Test+By+Url&uri={URL}
-https://www.webfx.com/tools/read-able/check.php?tab=Test+By+Url&uri={URL}
+**WebFX** https://www.webfx.com/tools/<br>
+Readability tests, inc. grade level, complex words, syllables/word (HTML filename: Readability Test Results for {DOMAIN_NAME}.html)<br>
+https://www.webfx.com/tools/read-able/<br>
+Tool: https://www.webfx.com/tools/read-able/check.php?tab=Test+By+Url&uri={URL}<br>
 
-**Wikipedia** https://en.wikipedia.org/
-Docs: https://www.mediawiki.org/wiki/API:Query
+**Wikipedia** https://en.wikipedia.org/<br>
+Docs: https://www.mediawiki.org/wiki/API:Query<br>
 API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&format=json&formatversion=2
 
 
