@@ -9,7 +9,7 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 *Recent studies, brower extensions, and tools that relying on fake-news lists:*
 
 ## Studies
-Fighting misinformation on social media using crowdsourced judgments of news source quality (BF, OS, PF, SN; 2019-01-28)<br>
+Fighting misinformation on social media using crowdsourced judgments of news source quality (BF, OS, PF, SN; 2019-01)<br>
 https://www.pnas.org/content/early/2019/01/14/1806781116
 
 Fake news on Twitter during the 2016 U.S. presidential election (BF, FC, PF; 2019-01)<br>
