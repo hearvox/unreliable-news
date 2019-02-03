@@ -11,7 +11,7 @@ Some steps return domain data that that can help auto-distiguishing fact-based f
 * Has Twitter account.
 * Has Facebook Account.
 * Number of accessibility errors (Achecker).
-* Number of complex words (WebpageFX).
+* Percentage of complex words (WebpageFX).
 
 **Achecker** https://achecker.ca/checker/index.php <br>
 Accessibility check, reports Known, Likley, and Potential Problems (returns XML file: checkacc.xml).<br>
@@ -24,7 +24,7 @@ Docs: https://docs.aws.amazon.com/AlexaWebInfoService/latest/<br>
 API: http://{RUN_SCRIPT_AT_YOUR_DOMIAN}/awis-query-php/urlinfo.php?k1={KEY_1}&k2={KEY_2}&site={DOMAIN_NAME)
 
 **BuiltWith**	https://builtwith.com/ <br>
-Web technology detector, must useful: adtech, tracking, CMS.(XML or JSON: api.json)<br>
+Web technology detector, must useful: adtech, tracking, CMS (XML or JSON: api.json).<br>
 Docs: <br>
 API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
 
@@ -73,6 +73,12 @@ Domain info, inc. related IP and Google IDs (Adsense and Analytics).<br>
 Docs: https://api.spyonweb.com/v1/docs<br>
 API: https://api.spyonweb.com/v1/summary/{DOMAIN_NAME}?access_token={TOKEN}
 
+**W3Techs** https://w3techs.com/
+Web technology detector, must useful: CMS (file: siteinfo.html).<br>
+Tool: https://w3techs.com/sites
+HTML: https://w3techs.com/sites/info/{DOMAIN_NAME}
+Extension URL: https://w3techs.com/siteinfo.html?url={DOMAIN_NAME}
+
 **Wayback Machine** https://web.archive.org<br>
 Docs: https://archive.org/help/wayback_api.php<br>
 API- Save in Archive: https://web.archive.org/save/{URL}<br>
@@ -86,7 +92,6 @@ Tool: https://www.webfx.com/tools/read-able/check.php?tab=Test+By+Url&uri={URL}<
 **Wikipedia** https://en.wikipedia.org/<br>
 Docs: https://www.mediawiki.org/wiki/API:Query<br>
 API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&format=json&formatversion=2
-
 
 *[more coming]*
 
