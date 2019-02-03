@@ -30,6 +30,14 @@ Web technology detector, must useful: adtech, tracking, CMS (XML or JSON: api.js
 Docs: <br>
 API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
 
+**DNA Trails** https://securitytrails.com/dns-trails
+Historical DNS data.
+Docs: https://docs.securitytrails.com/docs
+Tool: https://securitytrails.com/domain/{DOMAIN_NAME}/dns
+<code>curl --request GET \
+  --url https://api.securitytrails.com/v1/history/{DOMAIN_NAME}/dns/a \
+  --header 'apikey: {KEY}'</code>
+
 **DomainBigData** https://domainbigdata.com/ <br>
 Domain info, for fact-echeck: domain 	(HTML filename: {DOMAIN_NAME} - WHOIS & Domain Info - DomainBigData.html)<br>
 Tool: https://domainbigdata.com/{DOMAIN_NAME}
