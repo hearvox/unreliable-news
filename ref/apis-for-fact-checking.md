@@ -1,6 +1,6 @@
 # APIs and Tools for fact-checking
 
-While fact-checking will always be a hands-on, human-powered process, many <a href="https://github.com/hearvox/unreliable-news/blob/master/ref/news-verification-checklists.md">fact-checking steps</a> can be computer-assisted.
+While fact-checking will always be a human-powered, hands-on process, many <a href="https://github.com/hearvox/unreliable-news/blob/master/ref/news-verification-checklists.md">fact-checking steps</a> can be computer-assisted.
 
 Some steps return domain data that that can help auto-distiguishing fact-based from fake news. Most promising so far is:
 * Year online, date of doamin registration (Alexa, Domain BigData, DNA Trails).
@@ -12,6 +12,8 @@ Some steps return domain data that that can help auto-distiguishing fact-based f
 * Has Facebook Account.
 * Number of accessibility errors (Achecker).
 * Percentage of complex words (WebpageFX).
+
+These tools and APIs return domain data useful in detecting unreliab;e sources:
 
 **Achecker** https://achecker.ca/checker/index.php <br>
 Accessibility check, reports Known, Likley, and Potential Problems (returns XML file: checkacc.xml).<br>
@@ -61,6 +63,13 @@ API: https://dev.metacert.com/v5/check/
 **Quantcast** https://www.quantcast.com/<br>
 Docs: http://developer.quantcast.com/docs<br>
 Tool (login requites): https://www.quantcast.com/{DOMAIN_NAME}
+
+**SimilarWeb**	https://www.similarweb.com/
+Site data, inc. visits, bounce, page-speed (file: all.json)
+Docs: https://www.similarweb.com/corp/developer/estimated_visits_api
+Extension URL: https://api.similarweb.com/SimilarWebAddon/{DOMAIN_NAME}/all
+
+"http://www.webpagetest.org/runtest.php?k=A.72b347614f6a799e5f9634ad7905d350&runs=1&web10=1&fvonly=1&f=xml&noopt=1&noimages=1&ignoreSSL=1&url=" & Table::url_id
 
 **Spamhaus** (php script, see: APIs/spamhaus.php)<br>
 Spamhaus DBL: https://www.spamhaus.org/faq/section/Spamhaus%20DBL<br>
