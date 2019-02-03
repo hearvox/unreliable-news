@@ -119,9 +119,3 @@ Docs: https://www.mediawiki.org/wiki/API:Query<br>
 API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&format=json&formatversion=2
 
 *[more coming]*
-
-Test linebreaks, 2 spaces  
-Trailing backward slash\
-HTML br el<br>
-Shift enter
-Last line, no br.
