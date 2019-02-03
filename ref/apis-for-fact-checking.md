@@ -13,7 +13,7 @@ Some steps return domain data that that can help auto-distiguishing fact-based f
 * Number of accessibility errors (Achecker).
 * Percentage of complex words (WebpageFX).
 
-These tools and APIs return domain data useful in detecting unreliab;e sources:
+These tools and APIs return domain data useful in detecting unreliable sources:
 
 **Achecker** https://achecker.ca/checker/index.php <br>
 Accessibility check, reports Known, Likley, and Potential Problems (returns XML file: checkacc.xml).<br>
