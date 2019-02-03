@@ -243,6 +243,12 @@ https://www.allsides.com/news-source/daily-kos
 https://www.allsides.com/news-source/daily-caller  
 https://www.allsides.com/news-source/judicial-watch
 
+We’ve got bad news!
+"We’ve used the machine algorithms to examine approximately a million of texts published on such “junk websites” within a year. Here’s what we have found out."
+http://texty.org.ua/d/2018/mnews/eng/
+"Websites where we noticed anti-Ukrainian or pro-Russian propaganda."
+https://docs.google.com/spreadsheets/d/114Anuo8eREUVj3LscPaZcQ7fpvIzxti_virynhUVftI/edit#gid=0
+
 CredCo table: https://airtable.com/shrTCnDfLO104Q1y2/tblYUxvktcvkXDrdY
 
 Factmata: https://factmata.com/technology.html
