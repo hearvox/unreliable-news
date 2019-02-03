@@ -1,6 +1,6 @@
-# Fake and Unreliable News Sites (CSVs, info, URLs)
+# Fake/Unreliable News Site Lists
 
-This page links to lists of fake news sites published by:
+This page links to lists of fake news sites (with CSVs, info, and  URLs) published by:
 <ol>
   <li>BuzzFeed <em>(* 2018-12)</em></li>
   <li>Claim Sources</li>
