@@ -64,12 +64,10 @@ API: https://dev.metacert.com/v5/check/
 Docs: http://developer.quantcast.com/docs<br>
 Tool (login requites): https://www.quantcast.com/{DOMAIN_NAME}
 
-**SimilarWeb**	https://www.similarweb.com/
-Site data, inc. visits, bounce, page-speed (file: all.json)
-Docs: https://www.similarweb.com/corp/developer/estimated_visits_api
+**SimilarWeb**	https://www.similarweb.com/<br><br><br>
+Site data, inc. visits, bounce, page-speed (file: all.json)<br><br>
+Docs: https://www.similarweb.com/corp/developer/estimated_visits_api<br>
 Extension URL: https://api.similarweb.com/SimilarWebAddon/{DOMAIN_NAME}/all
-
-"http://www.webpagetest.org/runtest.php?k=A.72b347614f6a799e5f9634ad7905d350&runs=1&web10=1&fvonly=1&f=xml&noopt=1&noimages=1&ignoreSSL=1&url=" & Table::url_id
 
 **Spamhaus** (php script, see: APIs/spamhaus.php)<br>
 Spamhaus DBL: https://www.spamhaus.org/faq/section/Spamhaus%20DBL<br>
@@ -82,10 +80,10 @@ Domain info, inc. related IP and Google IDs (Adsense and Analytics).<br>
 Docs: https://api.spyonweb.com/v1/docs<br>
 API: https://api.spyonweb.com/v1/summary/{DOMAIN_NAME}?access_token={TOKEN}
 
-**W3Techs** https://w3techs.com/
+**W3Techs** https://w3techs.com/<br><br><br>
 Web technology detector, must useful: CMS (file: siteinfo.html).<br>
-Tool: https://w3techs.com/sites
-HTML: https://w3techs.com/sites/info/{DOMAIN_NAME}
+Tool: https://w3techs.com/sites<br><br>
+HTML: https://w3techs.com/sites/info/{DOMAIN_NAME}<br>
 Extension URL: https://w3techs.com/siteinfo.html?url={DOMAIN_NAME}
 
 **Wayback Machine** https://web.archive.org<br>
@@ -96,7 +94,17 @@ Tool- View archives: http://web.archive.org/web/\*/{URL}
 **WebFX** https://www.webfx.com/tools/<br>
 Readability tests, inc. grade level, complex words, syllables/word (HTML filename: Readability Test Results for {DOMAIN_NAME}.html)<br>
 https://www.webfx.com/tools/read-able/<br>
-Tool: https://www.webfx.com/tools/read-able/check.php?tab=Test+By+Url&uri={URL}<br>
+Tool: https://www.webfx.com/tools/read-able/check.php?tab=Test+By+Url&uri={URL}
+
+**WebpageTest** https://www.webpagetest.org/<br>
+Performance tests (HTML, JSON, CSV, XML: runtest.xml).<br>
+Results:
+* https://www.webpagetest.org/xmlResult/{TEST_ID}/
+* https://www.webpagetest.org/result/{TEST_ID}/
+* https://www.webpagetest.org/result/{TEST_ID}/page_data.csv
+* https://www.webpagetest.org/result/{TEST_ID}/requests.csv
+* https://www.webpagetest.org/jsonResult.php?test={TEST_ID}
+API: http://www.webpagetest.org/runtest.php?k={KEY}&runs=1&web10=1&fvonly=1&f=xml&noopt=1&noimages=1&ignoreSSL=1&url={URL}
 
 **Wikipedia** https://en.wikipedia.org/<br>
 Docs: https://www.mediawiki.org/wiki/API:Query<br>
