@@ -30,14 +30,6 @@ Web technology detector, must useful: adtech, tracking, CMS (XML or JSON: api.js
 Docs: <br>
 API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
 
-**DNA Trails** https://securitytrails.com/dns-trails
-Historical DNS data.
-Docs: https://docs.securitytrails.com/docs
-Tool: https://securitytrails.com/domain/{DOMAIN_NAME}/dns
-<code>curl --request GET \
-  --url https://api.securitytrails.com/v1/history/{DOMAIN_NAME}/dns/a \
-  --header 'apikey: {KEY}'</code>
-
 **DomainBigData** https://domainbigdata.com/ <br>
 Domain info, for fact-echeck: domain 	(HTML filename: {DOMAIN_NAME} - WHOIS & Domain Info - DomainBigData.html)<br>
 Tool: https://domainbigdata.com/{DOMAIN_NAME}
@@ -72,8 +64,16 @@ API: https://dev.metacert.com/v5/check/
 Docs: http://developer.quantcast.com/docs<br>
 Tool (login requites): https://www.quantcast.com/{DOMAIN_NAME}
 
-**SimilarWeb**	https://www.similarweb.com/<br><br><br>
-Site data, inc. visits, bounce, page-speed (file: all.json)<br><br>
+**Security Trails** https://securitytrails.com/dns-trails<br>
+Historical DNS data.<br>
+Docs: https://docs.securitytrails.com/docs<br>
+Tool: https://securitytrails.com/domain/{DOMAIN_NAME}/dns<br>
+<code>curl --request GET \
+  --url https://api.securitytrails.com/v1/history/{DOMAIN_NAME}/dns/a \
+  --header 'apikey: {KEY}'</code>
+ 
+**SimilarWeb**	https://www.similarweb.com/<br>
+Site data, inc. visits, bounce, page-speed (file: all.json)<br>
 Docs: https://www.similarweb.com/corp/developer/estimated_visits_api<br>
 Extension URL: https://api.similarweb.com/SimilarWebAddon/{DOMAIN_NAME}/all
 
@@ -88,9 +88,9 @@ Domain info, inc. related IP and Google IDs (Adsense and Analytics).<br>
 Docs: https://api.spyonweb.com/v1/docs<br>
 API: https://api.spyonweb.com/v1/summary/{DOMAIN_NAME}?access_token={TOKEN}
 
-**W3Techs** https://w3techs.com/<br><br><br>
+**W3Techs** https://w3techs.com/<br>
 Web technology detector, must useful: CMS (file: siteinfo.html).<br>
-Tool: https://w3techs.com/sites<br><br>
+Tool: https://w3techs.com/sites<br>
 HTML: https://w3techs.com/sites/info/{DOMAIN_NAME}<br>
 Extension URL: https://w3techs.com/siteinfo.html?url={DOMAIN_NAME}
 
@@ -120,4 +120,8 @@ API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&f
 
 *[more coming]*
 
-
+Test linebreaks, 2 spaces  
+Trailing backward slash\
+HTML br el<br>
+Shift enter
+Last line, no br.
