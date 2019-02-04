@@ -9,9 +9,9 @@ Online tools can instantly return domain data that can reliably auto-distinguish
 * Member of LION, INN, or ONA.
 * Domain Authority (Moz).
 * Percentage of complex words (WebpageFX).
-* Has Wikipedia page (Wikipedia- MediaWiki API).
-* Has Twitter account.
-* Has Facebook Account.
+* Has Wikipedia page (Wikipedia- MediaWiki API).<sup id="fnr1"><a href="#fn1">1</a></sup>
+* Has Twitter account.<sup id="fnr1"><a href="#fn1">1</a></sup><sup id="fnr1"><a href="#fn1">1</a></sup>
+* Has Facebook Account.<sup id="fnr1"><a href="#fn1">1</a></sup>
 * Number of accessibility errors (Achecker).
 
 These tools and APIs return domain data useful in detecting unreliable sources:
@@ -124,3 +124,6 @@ API: http://www.webpagetest.org/runtest.php?k={KEY}&runs=1&web10=1&fvonly=1&f=xm
 **Wikipedia** https://en.wikipedia.org/<br>
 Docs: https://www.mediawiki.org/wiki/API:Query<br>
 API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&format=json&formatversion=2
+
+## Endnotes
+<a href="#fnr1">1.</a> <a href="https://admin.govexec.com/media/emnlp-2018-predicting.pdf">Predicting Factuality of Reporting and Bias of News Media Sources.</a>
