@@ -1,17 +1,18 @@
 # APIs and Tools for fact-checking
 
-While fact-checking will always be a human-powered, hands-on process, many <a href="https://github.com/hearvox/unreliable-news/blob/master/ref/news-verification-checklists.md">fact-checking steps</a> can be computer-assisted.
+Fact-checking will always be a human-powered, hands-on process. But many <a href="https://github.com/hearvox/unreliable-news/blob/master/ref/news-verification-checklists.md">fact-checking steps</a> can be automated.
 
-Some steps return domain data that that can help auto-distiguishing fact-based from fake news. Most promising so far is:
-* Year online, date of doamin registration (Alexa, Domain BigData, DNA Trails).
+Online tools can instantly return domain data that can reliably auto-distinguish fact-based from fake news. The most promising indicators so far are:
+* Year online, date of domain registration (Alexa, Domain BigData, DNA Trails).
 * Listed in E&amp;P Databook (Editor &amp; Publisher).
 * Listed in Unreliable News Source index (CJR).
 * Member of LION, INN, or ONA.
+* Domain Authority (Moz).
+* Percentage of complex words (WebpageFX).
 * Has Wikipedia page (Wikipedia- MediaWiki API).
 * Has Twitter account.
 * Has Facebook Account.
 * Number of accessibility errors (Achecker).
-* Percentage of complex words (WebpageFX).
 
 These tools and APIs return domain data useful in detecting unreliable sources:
 
@@ -59,6 +60,12 @@ Send custom headers:<br>
 Send json Post data:<br>
 <code>{"url" : "{DOMAIN_NAME}"}</code><br>
 API: https://dev.metacert.com/v5/check/
+
+**Moz** 
+Site and page data, inc. domain/page authority and incoming links.
+(Use cURL request; requires timestamp based hash -- expires in 5min.)  
+Docs: https://moz.com/help/links-api
+Docs: https://moz.com/help/guides/moz-api/mozscape/api-reference/url-metrics
 
 **Quantcast** https://www.quantcast.com/<br>
 Docs: http://developer.quantcast.com/docs<br>
@@ -117,5 +124,3 @@ API: http://www.webpagetest.org/runtest.php?k={KEY}&runs=1&web10=1&fvonly=1&f=xm
 **Wikipedia** https://en.wikipedia.org/<br>
 Docs: https://www.mediawiki.org/wiki/API:Query<br>
 API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&format=json&formatversion=2
-
-*[more coming]*
