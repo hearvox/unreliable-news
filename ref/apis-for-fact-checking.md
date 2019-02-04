@@ -10,7 +10,7 @@ Online tools can instantly return domain data that can reliably auto-distinguish
 * Domain Authority (Moz).
 * Percentage of complex words (WebpageFX).
 * Has Wikipedia page (Wikipedia- MediaWiki API).<sup id="fnr1"><a href="#fn1">1</a></sup>
-* Has Twitter account.<sup id="fnr1"><a href="#fn1">1</a></sup><sup id="fnr1"><a href="#fn1">1</a></sup>
+* Has Twitter account.<sup id="fnr1"><a href="#fn1">1</a></sup>
 * Has Facebook Account.<sup id="fnr1"><a href="#fn1">1</a></sup>
 * Number of accessibility errors (Achecker).
 
@@ -61,15 +61,20 @@ Send json Post data:<br>
 <code>{"url" : "{DOMAIN_NAME}"}</code><br>
 API: https://dev.metacert.com/v5/check/
 
-**Moz** 
-Site and page data, inc. domain/page authority and incoming links.
-(Use cURL request; requires timestamp based hash -- expires in 5min.)  
-Docs: https://moz.com/help/links-api
+**Moz: Link Explorer** https://moz.com/free-seo-tools
+Site and page data, inc. domain/page authority and incoming links.<br>
+(Use cURL request; requires timestamp based hash -- expires in 5min.)<br>
+Tool: https://moz.com/link-explorer
+Docs: https://moz.com/help/links-api<br>
 Docs: https://moz.com/help/guides/moz-api/mozscape/api-reference/url-metrics
 
 **Quantcast** https://www.quantcast.com/<br>
 Docs: http://developer.quantcast.com/docs<br>
 Tool (login requites): https://www.quantcast.com/{DOMAIN_NAME}
+
+**Redirect(s)**<br>
+Find one or all redirects of a domain name (when one site goes down another often takes its place).<br>
+PHP: https://gist.github.com/davejamesmiller/dbefa0ff167cc5c08d6d
 
 **Security Trails** https://securitytrails.com/dns-trails<br>
 Historical DNS data.<br>
@@ -126,4 +131,4 @@ Docs: https://www.mediawiki.org/wiki/API:Query<br>
 API: https://en.wikipedia.org/w/api.php?action=query&titles={PUBLICATION_NAME}&format=json&formatversion=2
 
 ## Endnotes
-<a href="#fnr1">1.</a> <a href="https://admin.govexec.com/media/emnlp-2018-predicting.pdf">Predicting Factuality of Reporting and Bias of News Media Sources.</a>
+<a id="fnr1" href="#fnr1">1.↩</a> See <a href="https://admin.govexec.com/media/emnlp-2018-predicting.pdf">Predicting Factuality of Reporting and Bias of News Media Sources</a>.
