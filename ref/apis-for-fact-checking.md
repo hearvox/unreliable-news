@@ -23,8 +23,10 @@ API: https://achecker.ca/checkacc.php?id={ID}=rest&guide=WCAG2-AA&uri=hearingvoi
 
 **Alexa**	https://aws.amazon.com/alexa/ <br>
 Site info, most useful: rank (global and US), domain reg date, site title and descriptions (HTML with XML in body: urlinfo.html)<br>
+Tool: https://www.alexa.com/siteinfo/<br>
 Docs: https://docs.aws.amazon.com/AlexaWebInfoService/latest/<br>
-API: http://{RUN_SCRIPT_AT_YOUR_DOMIAN}/awis-query-php/urlinfo.php?k1={KEY_1}&k2={KEY_2}&site={DOMAIN_NAME)
+API script code samples: https://aws.amazon.com/awis/getting-started/#awis_sample_code<br>
+API: https://{RUN_SCRIPT_AT_YOUR_DOMIAN}/awis-query-php/urlinfo.php?k1={KEY_1}&k2={KEY_2}&site={DOMAIN_NAME)
 
 **BuiltWith**	https://builtwith.com/ <br>
 Web technology detector, must useful: adtech, tracking, CMS (XML or JSON: api.json).<br>
