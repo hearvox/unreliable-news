@@ -26,29 +26,44 @@ This page links to lists of fake news sites (with CSVs, info, and  URLs) publish
 
 
 ## BuzzFeed
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">BuzzFeed CSV</a> merges  lists from 2016, 2017, ans 2018.]</em>
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/buzzfeed-2018-12.csv">BuzzFeed CSV</a> merges  lists from 2016, 2017, and 2018.]</em>
 
-8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation  
-Craig Silverman (2018-12-27)  
-https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown
+Analysis of fake news sites and viral posts, 2016 - 2018  
+https://github.com/BuzzFeedNews/2018-12-fake-news-top-50
+
+These Are 50 Of The Biggest Fake News Hits On Facebook In 2018
+Craig Silverman (2018-12-27)
+https://www.buzzfeednews.com/article/craigsilverman/facebook-fake-news-hits-2018  
+https://github.com/BuzzFeedNews/2018-12-fake-news-top-50/blob/master/data/top_2018.csv  
+https://github.com/BuzzFeedNews/2018-12-fake-news-top-50/blob/master/data/sites_2018.csv
 
 These are 50 of the biggest fake news hits on Facebook in 2017    
 Silverman C, Lytvynenko J, Pham S. T. (2017-12-17)  
 https://www.buzzfeednews.com/article/craigsilverman/these-are-50-of-the-biggest-fake-news-hits-on-facebook-in  
-https://github.com/BuzzFeedNews/2017-12-fake-news-top-50
-
-In spite of the crackdown, fake news publishers are still earning money from major ad networks  
-Silverman C, Singer-Vine J, Vo LT (2017-04-04)     
-https://www.buzzfeednews.com/article/craigsilverman/fake-news-real-ads  
-https://docs.google.com/spreadsheets/d/1sVFSHM7aITXE4QMNA7NIyPI8uYR1NHFiHHAMj5q3vKU/edit#gid=0
+https://github.com/BuzzFeedNews/2017-12-fake-news-top-50  
+https://github.com/BuzzFeedNews/2017-12-fake-news-top-50/blob/master/data/top_2017.csv  
+https://github.com/BuzzFeedNews/2018-12-fake-news-top-50/blob/master/data/sites_2017.csv  
 
 Here are 50 of the biggest fake news hits on Facebook from 2016  
 Silverman C (2016-12-30)   
 https://www.buzzfeednews.com/article/craigsilverman/top-fake-news-of-2016  
-https://docs.google.com/spreadsheets/d/1sTkRkHLvZp9XlJOynYMXGslKY9fuB_e-2mrxqgLwvZY/edit#gid=652144590
+https://docs.google.com/spreadsheets/d/1sTkRkHLvZp9XlJOynYMXGslKY9fuB_e-2mrxqgLwvZY/edit#gid=652144590  
+https://github.com/BuzzFeedNews/2017-12-fake-news-top-50/blob/master/data/top_2016.csv  
+https://github.com/BuzzFeedNews/2018-12-fake-news-top-50/blob/master/data/sites_2016.csv
 
 Used by:  
 http://web.stanford.edu/~gentzkow/research/fake-news-trends.pdf
+
+Also:  
+8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation  
+Craig Silverman (2018-12-27)  
+https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown
+
+In spite of the crackdown, fake news publishers are still earning money from major ad networks  
+Silverman C, Singer-Vine J, Vo LT (2017-04-04)     
+https://www.buzzfeednews.com/article/craigsilverman/fake-news-real-ads    
+https://docs.google.com/spreadsheets/d/1sVFSHM7aITXE4QMNA7NIyPI8uYR1NHFiHHAMj5q3vKU/edit#gid=0
+
 
 
 ## Claim Sources
