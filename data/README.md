@@ -135,15 +135,6 @@ https://informationisbeautiful.net/visualizations/biggest-fake-news-of-2017/
 Data:  
 https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWPx24/edit#gid=925511082
 
-## Junk News Aggregator
-<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/junk-news-aggregator-2018-01.csv">Junk News Aggregator CSV</a>  from list accessed in 2018 — unclear when list was last updated.]</em>
-
-Junk News Aggregator: 50 junk news sites  
-https://newsaggregator.oii.ox.ac.uk/methodology.php  
-Junk News Classification  
-http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews-OnlineSupplement.pdf  
-(Computational Propaganda group (COMPROP) of the Oxford Internet Institute (OII) at the University of Oxford)
-
 ## Is It Fake News?
 <em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/is-it-fake-news-2018-11.csv">Is It Fake News? CSV</a> from site's database (sent to us by owner), before it went offline, 2018-11.]</em>
 
@@ -153,9 +144,18 @@ https://web.archive.org/web/20181101183030/https://isitfakenews.com/
 
 <blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
 
-Examples:  
-https://isitfakenews.com/search/Your+News+Wire
-https://isitfakenews.com/site/infowars.com
+Examples:
+https://web.archive.org/web/20181101184138/https://isitfakenews.com/search/21stcenturywire.com  
+https://web.archive.org/web/20181101184101/https://isitfakenews.com/search/addictinginfo.org
+
+## Junk News Aggregator
+<em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/junk-news-aggregator-2018-01.csv">Junk News Aggregator CSV</a>  from list accessed in 2018 — unclear when list was last updated.]</em>
+
+Junk News Aggregator: 50 junk news sites  
+https://newsaggregator.oii.ox.ac.uk/methodology.php  
+Junk News Classification  
+http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2018/02/Polarization-Partisanship-JunkNews-OnlineSupplement.pdf  
+(Computational Propaganda group (COMPROP) of the Oxford Internet Institute (OII) at the University of Oxford)
 
 ## Lead Stories
 Old Network of Anti-Islam Fake News Websites Turns To Twitter Trolling (2018-11-27)  
