@@ -144,7 +144,7 @@ https://web.archive.org/web/20181101183030/https://isitfakenews.com/
 
 <blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
 
-Examples:
+Examples:  
 https://web.archive.org/web/20181101184138/https://isitfakenews.com/search/21stcenturywire.com  
 https://web.archive.org/web/20181101184101/https://isitfakenews.com/search/addictinginfo.org
 
