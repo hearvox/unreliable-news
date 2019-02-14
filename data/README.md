@@ -139,7 +139,6 @@ https://docs.google.com/spreadsheets/d/1gSx7wWaluSD_grN0AIb_G4F_Q_Vv8bt8m9EcCaWP
 <em>[<a href="https://github.com/hearvox/unreliable-news/blob/master/data/is-it-fake-news-2018-11.csv">Is It Fake News? CSV</a> from site's database (sent to us by owner), before it went offline, 2018-11.]</em>
 
 Is It Fake News? (2018-01-01, now offline)  
-https://isitfakenews.com/
 https://web.archive.org/web/20181101183030/https://isitfakenews.com/
 
 <blockquote>Thousands of website ratings are displayed from multiple, independent sources including Politifact, MetaCert, OpenSources.co, Snopes.com, Wikipedia, and CBS News. We also conduct our own research and document the source of all information.</blockquote>
@@ -167,7 +166,7 @@ https://docs.google.com/spreadsheets/d/1rQaXDiuve76ezGLIBHHikDbZftdrBtBIKokk2ZBd
 
 ## Media Bias Fact Check
 Media Bias / Fact Check (2016-Present)
-https://mediabiasfactcheck.com/	701	455	266	247	1
+https://mediabiasfactcheck.com/
 
 <blockquote>TWe are the most comprehensive media bias resource on the internet. There are currently 2600+ media sources listed in our database and growing every day. Don’t be fooled by Fake News sources. Use the search feature above (Header) to check the bias of any source. Use name or url.</blockquote>
 
