@@ -8,7 +8,7 @@ This page links to lists of fake news sites (with CSVs, info, and  URLs) publish
   <li>Fake News Codex <em>(* 2018-06)</em></li>
   <li>FactCheck.org <em>(* 2018-11)</em></li>  
   <li>Fake News Watch <em>(* 2016-01, now offline)</em></li>
-  <li>Hoaxy <em>(use Claim Sources above)</em></li>
+  <li>Hoaxy <em>(uses Claim Sources above)</em></li>
   <li>Information is Beautiful</li>
   <li>Is It Fake News? <em>(* 2018-11, now offline)</em></li>
   <li>Junk News Aggregator <em>(* 2018-06)</em></li>
