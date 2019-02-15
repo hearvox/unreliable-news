@@ -110,5 +110,5 @@ Key to lists:
 * Snopes (SN)
 * Wikipedia (WI)
 
-Details at: <a href="https://github.com/hearvox/unreliable-news/tree/master/data">Fake and Unreliable News Sites</a>)
+Details at: <a href="https://github.com/hearvox/unreliable-news/tree/master/data">Fake and Unreliable News Sites</a>
 
