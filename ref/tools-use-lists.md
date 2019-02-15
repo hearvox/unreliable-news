@@ -19,7 +19,10 @@ http://science.sciencemag.org/highwire/filestream/721809/field_highwire_adjunct_
 Less than you think: Prevalence and predictors of fake news dissemination on Facebook (BF, OS; 2019-01)<br>
 http://advances.sciencemag.org/content/5/1/eaau4586
 
-DISINFORMATION, ‘FAKE NEWS’ AND INFLUENCE CAMPAIGNS ON TWITTER (OS, MBFC; 2018-10)  
+Fake News and Advertising on Social Media: A Study of the Anti-Vaccination Movement (HXY; 2018-11)
+http://papers.nber.org/tmp/39859-w25223.pdf
+
+Disinformation, ‘Fake News’ and Influence Campaigns on Twitter (OS, MBFC; 2018-10)  
 https://knightfoundation.org/reports/disinformation-fake-news-and-influence-campaigns-on-twitter
 
 Iffy Quotient: A Platform Health Metric for Misinformation (OS, MBFC; 2018-10)  
@@ -97,6 +100,7 @@ Key to lists:
 * BuzzFeed (BF)
 * Fake News Codex (FNC)
 * FactCheck.org (FC)
+* Hoaxy (HXY)
 * Information is Beautiful (IIB)
 * Is It Fake News? (IIFN)
 * Media Bias / Fact Check (MBFC)
