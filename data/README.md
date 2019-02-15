@@ -8,6 +8,7 @@ This page links to lists of fake news sites (with CSVs, info, and  URLs) publish
   <li>Fake News Codex <em>(* 2018-06)</em></li>
   <li>FactCheck.org <em>(* 2018-11)</em></li>  
   <li>Fake News Watch <em>(* 2016-01, now offline)</em></li>
+  <li>Hoaxy <em>(use Claim Sources above)</em></li>
   <li>Information is Beautiful</li>
   <li>Is It Fake News? <em>(* 2018-11, now offline)</em></li>
   <li>Junk News Aggregator <em>(* 2018-06)</em></li>
@@ -64,8 +65,6 @@ Silverman C, Singer-Vine J, Vo LT (2017-04-04)
 https://www.buzzfeednews.com/article/craigsilverman/fake-news-real-ads    
 https://docs.google.com/spreadsheets/d/1sVFSHM7aITXE4QMNA7NIyPI8uYR1NHFiHHAMj5q3vKU/edit#gid=0
 
-
-
 ## Claim Sources
 <em>[Data all from other lists.]</em>
 
@@ -75,11 +74,7 @@ https://docs.google.com/spreadsheets/d/1S5eDzOUEByRcHSwSNmSqjQMpaKcKXmUzYT6YlRy3
 
 <em>Compiles these lists: Fake News Watch, Melissa Zimdars (OpenSources.co), The Daily Dot, Snopes Field Guide.</em>
 
-Used by: Hoaxy (Indiana University tool: "Visualize the spread of claims and fact checking") uses Claim Sources list:    
-https://hoaxy.iuni.iu.edu/faq.html#faq-q2  
-"Low-credibility sources that often publish inaccurate, unverified, or satirical claims according to lists compiled and published by reputable news and fact-checking organizations."
-Hoaxy team, OSoMe (Observatory on Social Media):  
-https://osome.iuni.iu.edu/contact/
+Used by: Hoaxy (Indiana Univeersity, see below).
 
 ## Daily Dot
 <em>[Data all from other lists.]</em>
@@ -121,6 +116,16 @@ https://web.archive.org/web/20180213181029/http://fakenewswatch.com/
 
 Link above is Internet Archive copy. Original site is inactive:
 http://fakenewswatch.com/
+
+## Hoaxy
+<em>[Data all from other lists.]</em>
+
+Uses Claim Sources (above)  
+Hoaxy (Indiana University tool: "Visualize the spread of claims and fact checking") uses Claim Sources list:     
+https://hoaxy.iuni.iu.edu/faq.html#faq-q2  
+"Low-credibility sources that often publish inaccurate, unverified, or satirical claims according to lists compiled and published by reputable news and fact-checking organizations."  
+Hoaxy team, OSoMe (Observatory on Social Media):  
+https://osome.iuni.iu.edu/contact/
 
 ## information is beautiful
 <em>[Data all from other lists.]</em>
