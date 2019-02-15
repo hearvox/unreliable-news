@@ -19,7 +19,7 @@ http://science.sciencemag.org/highwire/filestream/721809/field_highwire_adjunct_
 Less than you think: Prevalence and predictors of fake news dissemination on Facebook (BF, OS; 2019-01)<br>
 http://advances.sciencemag.org/content/5/1/eaau4586
 
-Fake News and Advertising on Social Media: A Study of the Anti-Vaccination Movement (HXY; 2018-11)
+Fake News and Advertising on Social Media: A Study of the Anti-Vaccination Movement (HXY; 2018-11)<br>
 http://papers.nber.org/tmp/39859-w25223.pdf
 
 Disinformation, ‘Fake News’ and Influence Campaigns on Twitter (OS, MBFC; 2018-10)  
@@ -44,9 +44,9 @@ https://arxiv.org/abs/1707.07592
 
 CJR/Tow Ctr coverage of studies (that use uotdated fake-news site datasets):<br>
 https://www.cjr.org/innovations/study-partisan-trust-media.php<br>
-https://www.cjr.org/analysis/fake-news-facebook-audience-drudge-breitbart-study.php<br>
 https://www.cjr.org/the_new_gatekeepers/chrome-plugin-fake-news.php<br>
-https://www.cjr.org/tow_center_reports/partnership-press-facebook-news-outlets-team-fight-misinformation.php
+https://www.cjr.org/tow_center_reports/partnership-press-facebook-news-outlets-team-fight-misinformation.php<br>
+https://www.cjr.org/analysis/fake-news-facebook-audience-drudge-breitbart-study.php
 
 ## Browser extensions
 
