@@ -24,8 +24,8 @@ Docs: https://achecker.ca/checkacc.php?id={ID}=rest&guide=WCAG2-AA&uri=hearingvo
 **Ads.txt** https://iabtechlab.com/ads-txt/<br>
 Docs: https://iabtechlab.com/wp-content/uploads/2017/09/IABOpenRTB_Ads.txt_Public_Spec_V1-0-1.pdf<br>
 Fields: Adtech domain name, Publisher Account ID, Type of Acct/Relationship, Certification Authority ID (optional)<br>
-Example: https://newspunch.com/ads.txt
-<code>google.com, pub-7714649074404303, DIRECT, f08c47fec0942fa0</code>
+Example: https://newspunch.com/ads.txt<br>
+<code>google.com, pub-7714649074404303, DIRECT, f08c47fec0942fa0</code><br>
 API: {URL}/ads.txt
 
 **Alexa**	https://aws.amazon.com/alexa/ <br>
