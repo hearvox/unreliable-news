@@ -23,7 +23,7 @@ Docs: https://achecker.ca/checkacc.php?id={ID}=rest&guide=WCAG2-AA&uri=hearingvo
 
 **Ads.txt** https://iabtechlab.com/ads-txt/<br>
 Docs: https://iabtechlab.com/wp-content/uploads/2017/09/IABOpenRTB_Ads.txt_Public_Spec_V1-0-1.pdf<br>
-Return: Adtech domain name, Publisher Account ID, Type of Acct/Relationship, Certification Authority ID (optional)<br>
+Fields: Adtech domain name, Publisher Account ID, Type of Acct/Relationship, Certification Authority ID (optional)<br>
 API: {URL}/ads.txt
 
 **Alexa**	https://aws.amazon.com/alexa/ <br>
@@ -42,7 +42,7 @@ API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
 Databases: U.S. Newspaper Directory, 1690-Present and All Digitized Newspapers 1789-1963<br>
 (National Endowment for the Humanities and the Library of Congress)<br>
 Tool: https://chroniclingamerica.loc.gov/search/titles/<br>
-Docs: https://chroniclingamerica.loc.gov/about/api/
+Docs: https://chroniclingamerica.loc.gov/about/api/<br>
 API: https://chroniclingamerica.loc.gov/search/titles/q={PUBLICATION_NAME}
 
 **DomainBigData** https://domainbigdata.com/ <br>
