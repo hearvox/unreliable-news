@@ -22,6 +22,7 @@ Docs: https://achecker.ca/documentation/web_service_api.php<br>
 Docs: https://achecker.ca/checkacc.php?id={ID}=rest&guide=WCAG2-AA&uri=hearingvoices.com
 
 **Ads.txt** https://iabtechlab.com/ads-txt/<br>
+Schema for authorizing ad publishers and ad distributors, "improving transparency for programmatic buyers."
 Docs: https://iabtechlab.com/wp-content/uploads/2017/09/IABOpenRTB_Ads.txt_Public_Spec_V1-0-1.pdf<br>
 Fields: Adtech domain name, Publisher Account ID, Type of Acct/Relationship, Certification Authority ID (optional)<br>
 Example: https://newspunch.com/ads.txt<br>
