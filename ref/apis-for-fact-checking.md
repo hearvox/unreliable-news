@@ -16,10 +16,15 @@ Online tools can instantly return domain data that can reliably auto-distinguish
 
 These tools and APIs return domain data useful in detecting unreliable sources:
 
-**Achecker** https://achecker.ca/checker/index.php <br>
+**Achecker** https://achecker.ca/checker/index.php<br>
 Accessibility check, reports Known, Likley, and Potential Problems (returns XML file: checkacc.xml).<br>
 Docs: https://achecker.ca/documentation/web_service_api.php<br>
-API: https://achecker.ca/checkacc.php?id={ID}=rest&guide=WCAG2-AA&uri=hearingvoices.com
+Docs: https://achecker.ca/checkacc.php?id={ID}=rest&guide=WCAG2-AA&uri=hearingvoices.com
+
+**Ads.txt** https://iabtechlab.com/ads-txt/<br>
+Docs: https://iabtechlab.com/wp-content/uploads/2017/09/IABOpenRTB_Ads.txt_Public_Spec_V1-0-1.pdf<br>
+Return: Adtech domain name, Publisher Account ID, Type of Acct/Relationship, Certification Authority ID (optional)<br>
+API: {URL}/ads.txt
 
 **Alexa**	https://aws.amazon.com/alexa/ <br>
 Site info, most useful: rank (global and US), domain reg date, site title and descriptions (HTML with XML in body: urlinfo.html)<br>
@@ -28,10 +33,17 @@ Docs: https://docs.aws.amazon.com/AlexaWebInfoService/latest/<br>
 API script code samples: https://aws.amazon.com/awis/getting-started/#awis_sample_code<br>
 API: https://{RUN_SCRIPT_AT_YOUR_DOMIAN}/awis-query-php/urlinfo.php?k1={KEY_1}&k2={KEY_2}&site={DOMAIN_NAME)
 
-**BuiltWith**	https://builtwith.com/ <br>
+**BuiltWith**	https://builtwith.com/<br>
 Web technology detector, must useful: adtech, tracking, CMS (XML or JSON: api.json).<br>
 Docs: <br>
 API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
+
+**Chronicling America** https://chroniclingamerica.loc.gov/<br>
+Databases: U.S. Newspaper Directory, 1690-Present and All Digitized Newspapers 1789-1963<br>
+(National Endowment for the Humanities and the Library of Congress)<br>
+Tool: https://chroniclingamerica.loc.gov/search/titles/<br>
+Docs: https://chroniclingamerica.loc.gov/about/api/
+API: https://chroniclingamerica.loc.gov/search/titles/q={PUBLICATION_NAME}
 
 **DomainBigData** https://domainbigdata.com/ <br>
 Domain info, for fact-echeck: domain 	(HTML filename: {DOMAIN_NAME} - WHOIS & Domain Info - DomainBigData.html)<br>
@@ -45,7 +57,7 @@ Tool: http://www.editorandpublisher.com/databook/data/?djoPage=search_details&dj
 Google Custom Search Engine, returns Media Bias/Fact Check tags and fact-checks of site articles.<br>  
 Tool: https://factualsearch.news/#gsc.tab=0&gsc.sort=&gsc.ref=fact_checking&gsc.q=%20{DOMAIN_NAME}%20
 
-** Google Fact Check Explorer
+**Google Fact Check Explorer
 Fact Check Tools (requires Google approval for access):
 https://toolbox.google.com/factcheck/explorer
 About: Fact Check Explorer, ClaimReview Markup Tool
