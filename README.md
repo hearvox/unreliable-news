@@ -3,7 +3,7 @@ An index of fake-news, clickbait, and hate websites, for Columbia Journalism Rev
 
 * <a href="https://github.com/hearvox/unreliable-news/projects/1">GitHub Project page</a>
 
-## Rreferences for fake-news lists
+## References for fake-news lists
 * <a href="https://github.com/hearvox/unreliable-news/blob/master/data/">Fake News site lists</a> (CSVs and list info)
 * <a href="https://github.com/hearvox/unreliable-news/blob/master/ref/tools-use-lists.md">Studies and tools using lists</a>
 * <a href="https://github.com/hearvox/unreliable-news/blob/master/ref/apis-for-fact-checking.md">Tools/APIs for fact-checking</a>
