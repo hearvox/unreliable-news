@@ -38,7 +38,7 @@ API: https://{RUN_SCRIPT_AT_YOUR_DOMIAN}/awis-query-php/urlinfo.php?k1={KEY_1}&k
 
 **BuiltWith**	https://builtwith.com/<br>
 Web technology detector, must useful: adtech, tracking, CMS (XML or JSON: api.json).<br>
-Docs: <br>
+Docs:https://api.builtwith.com/<br>
 API: https://api.builtwith.com/free1/api.json?KEY={key}&LOOKUP=hearingvoices.com
 
 **Chronicling America** https://chroniclingamerica.loc.gov/<br>
@@ -57,7 +57,7 @@ E&amp;P's online newspaper database (25K company records).<br>
 Tool: http://www.editorandpublisher.com/databook/data/?djoPage=search_details&djoPid=25874
 
 **Factual News Search** https://factualsearch.news/<br>
-Google Custom Search Engine, returns Media Bias/Fact Check tags and fact-checks of site articles.<br>  
+Google Custom Search Engine, returns Media Bias/Fact Check tags and fact-checks of site articles.<br>
 Tool: https://factualsearch.news/#gsc.tab=0&gsc.sort=&gsc.ref=fact_checking&gsc.q=%20{DOMAIN_NAME}%20
 
 **Google Fact Check Explorer**<br>
