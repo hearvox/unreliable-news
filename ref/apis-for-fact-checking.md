@@ -60,14 +60,14 @@ Tool: http://www.editorandpublisher.com/databook/data/?djoPage=search_details&dj
 Google Custom Search Engine, returns Media Bias/Fact Check tags and fact-checks of site articles.<br>  
 Tool: https://factualsearch.news/#gsc.tab=0&gsc.sort=&gsc.ref=fact_checking&gsc.q=%20{DOMAIN_NAME}%20
 
-**Google Fact Check Explorer
-Fact Check Tools (requires Google approval for access):
-https://toolbox.google.com/factcheck/explorer
-About: Fact Check Explorer, ClaimReview Markup Tool
-https://toolbox.google.com/factcheck/about
-Fact Check requirements
-https://developers.google.com/search/docs/data-types/factcheck
-ClaimReview schema
+**Google Fact Check Explorer**<br>
+Fact Check Tools: fact-check search, ClaimReview markup *(access requires Google approval for access)*.<br>
+https://toolbox.google.com/factcheck/explorer<br>
+About: the Fact Check Explorer and the ClaimReview Markup Tool<br>
+https://toolbox.google.com/factcheck/about<br>
+Fact Check requirements<br>
+https://developers.google.com/search/docs/data-types/factcheck<br>
+ClaimReview schema<br>
 https://schema.org/ClaimReview
 
 **Google PageSpeed Insights** https://developers.google.com/speed/pagespeed/insights/<br>
