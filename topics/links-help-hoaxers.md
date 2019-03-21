@@ -1,17 +1,25 @@
 # Stop giving fake news your Google juice
 
 
-Multiple links to America’s Last Line of Defense (Christopher Blair)
-https://www.snopes.com/fact-check/trump-cancels-obamas-muslim-ritual/
-
+Multiple links to America’s Last Line of Defense (Christopher Blair)  
 https://www.washingtonpost.com/national/nothing-on-this-page-is-real-how-lies-become-truth-in-online-america/2018/11/17/edd44cc8-e85a-11e8-bbdb-72fdbf9d4fed_story.html
 
 
 Quit linking to fake news   
 https://qz.com/1382740/facebooks-fight-against-fake-news-isnt-going-so-well/  
 https://www.politifact.com/punditfact/article/2017/may/31/If-youre-fooled-by-fake-news-this-man-probably-wro/  
+https://www.snopes.com/fact-check/trump-cancels-obamas-muslim-ritual/  
+
+Buzzfeed, on the image:
+https://www.buzzfeednews.com/article/craigsilverman/fake-news-turf-war
+
+Fiest of fake-news links (inc. LLOD):
 https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-working  
-https://www.snopes.com/fact-check/trump-cancels-obamas-muslim-ritual/
+
+https://analytics.moz.com/pro/link-explorer/inbound-links?filterFeeds=true&filterOneLink=false&site=http%3A%2F%2Fthelastlineofdefense.org%2F&state=not_deleted&target=domain&types[]=follow
+
+
+
 
 Archive:  
 https://www.snopes.com/fact-check/taylor-swift-colin-kaepernick/  
