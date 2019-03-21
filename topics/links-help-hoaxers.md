@@ -1,6 +1,6 @@
 # Stop giving fake news your Google juice
 
-Note for post about legit media linking to fake-news, which boosts the fakes SEO, SERP, and (Moz) Authority.
+Notes for post about legit media linking to fake-news, which boosts the fakers SEO/SERP (Google) and Authority (Moz).
 
 Multiple links to America’s Last Line of Defense
 
@@ -17,6 +17,7 @@ https://www.buzzfeednews.com/article/craigsilverman/fake-news-turf-war
 Fiest of fake-news links (inc. LLOD):
 https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-working  
 
+Accounts for a lot of the fakers incoming-link traffic
 https://analytics.moz.com/pro/link-explorer/inbound-links?filterFeeds=true&filterOneLink=false&site=http%3A%2F%2Fthelastlineofdefense.org%2F&state=not_deleted&target=domain&types[]=follow
 
 https://www.washingtonpost.com/national/nothing-on-this-page-is-real-how-lies-become-truth-in-online-america/2018/11/17/edd44cc8-e85a-11e8-bbdb-72fdbf9d4fed_story.html
