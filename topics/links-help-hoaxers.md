@@ -1,8 +1,9 @@
 # Stop giving fake news your Google juice
 
+Note for post about legit media linking to fake-news, which boosts the fakes SEO, SERP, and (Moz) Authority.
 
-Multiple links to America’s Last Line of Defense (Christopher Blair)  
-https://www.washingtonpost.com/national/nothing-on-this-page-is-real-how-lies-become-truth-in-online-america/2018/11/17/edd44cc8-e85a-11e8-bbdb-72fdbf9d4fed_story.html
+Multiple links to America’s Last Line of Defense
+
 
 
 Quit linking to fake news   
@@ -18,17 +19,28 @@ https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-
 
 https://analytics.moz.com/pro/link-explorer/inbound-links?filterFeeds=true&filterOneLink=false&site=http%3A%2F%2Fthelastlineofdefense.org%2F&state=not_deleted&target=domain&types[]=follow
 
+https://www.washingtonpost.com/national/nothing-on-this-page-is-real-how-lies-become-truth-in-online-america/2018/11/17/edd44cc8-e85a-11e8-bbdb-72fdbf9d4fed_story.html
 
 
 
-Archive:  
-https://www.snopes.com/fact-check/taylor-swift-colin-kaepernick/  
-https://www.factcheck.org/2018/09/the-fake-podesta-email-thats-still-circulating/  
 
 That debunk of a viral fake news story might help the hoaxers: Here’s how to stop it  
 https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/  
 Use rel="nofollow" for specific links  
 https://support.google.com/webmasters/answer/96569
+
+Somthing they do:  
+https://www.factcheck.org/2018/09/false-claim-about-kaepernicks-nike-deal/
+
+Sometimes they don't:  
+https://www.factcheck.org/2019/01/trumps-not-donating-1-billion-for-border-wall/
+
+https://www.factcheck.org/tag/americas-last-line-of-defense/
+
+
+Archive:  
+https://www.snopes.com/fact-check/taylor-swift-colin-kaepernick/  
+https://www.factcheck.org/2018/09/the-fake-podesta-email-thats-still-circulating/  
 
 Moz: Link Explorer  
 https://analytics.moz.com/pro/link-explorer/home  
