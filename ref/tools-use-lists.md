@@ -47,6 +47,7 @@ https://www.cjr.org/innovations/study-partisan-trust-media.php<br>
 https://www.cjr.org/the_new_gatekeepers/chrome-plugin-fake-news.php<br>
 https://www.cjr.org/tow_center_reports/partnership-press-facebook-news-outlets-team-fight-misinformation.php<br>
 https://www.cjr.org/analysis/fake-news-facebook-audience-drudge-breitbart-study.php
+https://www.cjr.org/tow_center_reports/ovadya-credibility-journalism-ocasio.php
 
 ## Browser extensions
 
