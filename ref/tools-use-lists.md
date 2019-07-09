@@ -9,6 +9,11 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 *Recent studies, brower extensions, and tools that relying on fake-news lists:*
 
 ## Studies
+Detecting Fake News on Social Media (BF, OS; 2019-06)<br>
+http://dmml.asu.edu/dfn/<br>
+Software and datasets<br>
+https://github.com/mdepak/fake-news-detection-resources
+
 Fighting misinformation on social media using crowdsourced judgments of news source quality (BF, OS, PF, SN; 2019-01)<br>
 https://www.pnas.org/content/early/2019/01/14/1806781116
 
