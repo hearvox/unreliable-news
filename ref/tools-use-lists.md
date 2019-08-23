@@ -43,6 +43,10 @@ https://arxiv.org/pdf/1810.13078.pdf
 Predicting Factuality of Reporting and Bias of News Media Sources (MBFC; 2018-10) 
 https://admin.govexec.com/media/emnlp-2018-predicting.pdf
 
+NewsWhip: Partisan Publishers & Political Content (PF 2018-09)  
+http://go.newswhip.com/2018_09-Partisan_LP.html  
+http://go.newswhip.com/rs/647-QQK-704/images/Hyper-Partisan%20Final.pdf
+
 The spread of low-credibility content by social bots (PF 2018-05)  
 https://www.poynter.org/news/bots-spread-lot-fakery-during-2016-election-they-can-also-debunk-it
 https://arxiv.org/abs/1707.07592
