@@ -11,10 +11,12 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 ## Studies
 
 Political audience diversity and news quality (NG; 2020-02)<br>
+https://www.newsguardtech.com/press/newsguard-debuts-news-website-reliability-index-creating-the-first-benchmark-for-measuring-news-reliability-and-media-consumption-habits/<br>
 https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_59.pdf
 
 Iffy Quotient: A Platform Health Metric for Misinformation (MBFC, NG; 2019-07)<br>
 https://csmr.umich.edu/wp-content/uploads/2019/07/UMSI-CSMR-Iffy-Quotient-Whitepaper-v2.pdf<br>
+https://www.newsguardtech.com/press/university-of-michigans-iffy-quotient-shows-steady-drop-of-questionable-information-on-social-media-partners-with-newsguard-for-better-data<br>
 https://csmr.umich.edu/platform-health-metrics/
 
 Detecting Fake News on Social Media (BF, OS; 2019-06)<br>
