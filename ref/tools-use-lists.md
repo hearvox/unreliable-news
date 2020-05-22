@@ -10,7 +10,7 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 
 ## Studies
 
-Political audience diversity and news quality (NG; 2020-02)<br>  
+Political audience diversity and news quality (NG; 2020-02)<br>
 https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_59.pdf
 
 Iffy Quotient: A Platform Health Metric for Misinformation (MBFC, NG; 2019-07)<br>
