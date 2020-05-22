@@ -9,6 +9,14 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 *Recent studies, brower extensions, and tools that relying on fake-news lists:*
 
 ## Studies
+
+Political audience diversity and news quality (NG; 2020-02)<br>  
+https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_59.pdf
+
+Iffy Quotient: A Platform Health Metric for Misinformation (MBFC, NG; 2019-07)<br>
+https://csmr.umich.edu/wp-content/uploads/2019/07/UMSI-CSMR-Iffy-Quotient-Whitepaper-v2.pdf<br>
+https://csmr.umich.edu/platform-health-metrics/
+
 Detecting Fake News on Social Media (BF, OS; 2019-06)<br>
 http://dmml.asu.edu/dfn/<br>
 Software and datasets<br>
@@ -87,7 +95,7 @@ https://metacertprotocol.com/
 Trusted News for Google Chrome (MC)  
 https://trusted-news.com/
 
-NewsGuard (list: thir own)
+NewsGuard (propritary, NG)
 https://www.newsguardtech.com/
 
 Official Media Bias Fact Check Icon (MBFC)<br>
@@ -115,6 +123,7 @@ Key to lists:
 * Is It Fake News? (IIFN)
 * Media Bias / Fact Check (MBFC)
 * MetaCert (MC)
+* NewsGuard (NG)
 * OpenSources.co (OS)
 * PolitiFact (PF)
 * Snopes (SN)
