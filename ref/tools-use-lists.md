@@ -24,6 +24,12 @@ http://dmml.asu.edu/dfn/<br>
 Software and datasets<br>
 https://github.com/mdepak/fake-news-detection-resources
 
+Fighting misinformation on social media using crowdsourced judgments of news source quality (BF, OS, PF; 2019-02 )<br>
+https://www.pnas.org/content/116/7/2521
+
+Less than you think: Prevalence and predictors of fake news dissemination on Facebook (BF, OS; 2019-01 )<br>
+https://advances.sciencemag.org/content/5/1/eaau4586
+
 Fighting misinformation on social media using crowdsourced judgments of news source quality (BF, OS, PF, SN; 2019-01)<br>
 https://www.pnas.org/content/early/2019/01/14/1806781116
 
