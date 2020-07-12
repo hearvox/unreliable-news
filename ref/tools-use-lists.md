@@ -10,9 +10,17 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 
 ## Studies
 
+Why Do People Share Ideologically Extreme, False, and Misleading Content on Social Media? A Self-Report and Trace Data–Based Analysis of Countermedia Content Dissemination on Facebook and Twitter (FNW, OS; 2020-05)<br>
+(Uses: "About.com, Aloisius, CBS News, The Daily Dot, Fake News Watch, Fake News Checker, Melissa Zimdars, NPR, Snopes Field Guide, The New Republic, and U.S. News and World Report"; 106 "countermedia" xdomains in <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hcr/PAP/10.1093_hcr_hqz022/2/2appendixa_hqz022.docx?Expires=1596759657&Signature=i1VxcJQa0tdtyBZpeae5Vtti6JipRqBDHd095zClcIP9F9mgUVPuNnRUK8G6gZ43wwcSW83R~uo5etwQauuSnrZIWoGieYFSeM-TRTgIAHppQLDqMcSljOY668oye40utqOuyjNxlrthNMNsQ9Nmxom6uVe8HBcD8Y9B54Rdq2nlbWN03E1xhuTYJBCzTIxYRT~vGfsWX4CNJOcFG54-iLsGiO5r58zfT44dvFbSx8B-NdfBmzy4~6OhkTvbV-SJ~~WiGPLNGPSDIosbnoos60ReHLDqfXgHMEedJ2Q9wNRSAVSwyWFEgsPoQGkinkjKITiL0~4uY~boT8EQFhUIXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Appendix A</a>)<br>
+https://academic.oup.com/hcr/article/doi/10.1093/hcr/hqz022/5840447?guestAccessKey=e1548abf-a0ae-469a-98f5-a9a04b0b769e
+
 Political audience diversity and news quality (NG; 2020-02)<br>
 https://www.newsguardtech.com/press/newsguard-debuts-news-website-reliability-index-creating-the-first-benchmark-for-measuring-news-reliability-and-media-consumption-habits/<br>
 https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_59.pdf
+
+The Quarter Billion Dollar Question: How is Disinformation Gaming Ad Tech? (OS, PF; 2019-09)<br>
+(Uses: "Storyful, PolitiFact, Le Monde, Open Brand Safety, OpenSources and NewsTracker")<br>
+https://disinformationindex.org/wp-content/uploads/2019/09/GDI_Ad-tech_Report_Screen_AW16.pdf
 
 Iffy Quotient: A Platform Health Metric for Misinformation (MBFC, NG; 2019-07)<br>
 https://csmr.umich.edu/wp-content/uploads/2019/07/UMSI-CSMR-Iffy-Quotient-Whitepaper-v2.pdf<br>
