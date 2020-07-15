@@ -10,6 +10,10 @@ More likely the number of shares stayed steady. Half the sites listed in 2016 we
 
 ## Studies
 
+Misinformation in action: fake news exposure is linked to lower trust in media, higher trust in government when your side is in power (BF, FC, PF; 2020-06)<br>
+(Uses: "list of domains categorized as fake news by Grinberg and colleagues (2019)" —see )<br>
+https://misinforeview.hks.harvard.edu/article/misinformation-in-action-fake-news-exposure-is-linked-to-lower-trust-in-media-higher-trust-in-government-when-your-side-is-in-power/
+
 Why Do People Share Ideologically Extreme, False, and Misleading Content on Social Media? A Self-Report and Trace Data–Based Analysis of Countermedia Content Dissemination on Facebook and Twitter (FNW, OS; 2020-05)<br>
 (Uses: "About.com, Aloisius, CBS News, The Daily Dot, Fake News Watch, Fake News Checker, Melissa Zimdars, NPR, Snopes Field Guide, The New Republic, and U.S. News and World Report"; 106 "countermedia" xdomains in <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hcr/PAP/10.1093_hcr_hqz022/2/2appendixa_hqz022.docx?Expires=1596759657&Signature=i1VxcJQa0tdtyBZpeae5Vtti6JipRqBDHd095zClcIP9F9mgUVPuNnRUK8G6gZ43wwcSW83R~uo5etwQauuSnrZIWoGieYFSeM-TRTgIAHppQLDqMcSljOY668oye40utqOuyjNxlrthNMNsQ9Nmxom6uVe8HBcD8Y9B54Rdq2nlbWN03E1xhuTYJBCzTIxYRT~vGfsWX4CNJOcFG54-iLsGiO5r58zfT44dvFbSx8B-NdfBmzy4~6OhkTvbV-SJ~~WiGPLNGPSDIosbnoos60ReHLDqfXgHMEedJ2Q9wNRSAVSwyWFEgsPoQGkinkjKITiL0~4uY~boT8EQFhUIXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Appendix A</a>)<br>
 https://academic.oup.com/hcr/article/doi/10.1093/hcr/hqz022/5840447?guestAccessKey=e1548abf-a0ae-469a-98f5-a9a04b0b769e
@@ -42,6 +46,7 @@ Fighting misinformation on social media using crowdsourced judgments of news sou
 https://www.pnas.org/content/early/2019/01/14/1806781116
 
 Fake news on Twitter during the 2016 U.S. presidential election (BF, FC, PF; 2019-01)<br>
+(Developed fake-news list used by other reseachers, cited as "Grinberg…")
 http://science.sciencemag.org/content/363/6425/374<br>
 http://science.sciencemag.org/highwire/filestream/721809/field_highwire_adjunct_files/0/aau2706_Grinberg_SM.pdf
 
