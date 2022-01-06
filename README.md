@@ -1,6 +1,7 @@
 # Unreliable News Sites (UNS)
-An index of fake-news, clickbait, and hate websites, for Columbia Journalism Review (to be published Jan. 2019).
+This project is now published at <a href="https://iffy.news/">Iffy.news</a>.
 
+<s>An index of fake-news, clickbait, and hate websites, for Columbia Journalism Review (to be published Jan. 2019).</s>
 * <a href="https://github.com/hearvox/unreliable-news/projects/1">GitHub Project page</a>
 
 ## References for fake-news lists
