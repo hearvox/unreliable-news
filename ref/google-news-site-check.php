@@ -5,7 +5,7 @@ header("Pragma: no-cache");
 
 /**
  * Check if domain name is a Google News source.
- * {URL_PATH_TO}/google-news-site-check.php?site={domain}
+ * {URL_PATH_TO}/google-news-site-check.php?site={DOMAIN}
  *
  * Test positive (Check = 10) and negative (Check = 0):
  * /google-news-site-check.php?site=nytimes.com
@@ -28,11 +28,12 @@ if ( ! isset( $_GET['site'] ) || $_GET['site'] == '' ) {
 }
 
 // Use site value in Google News search, returns XML.
-$domain  = $_GET['site'];
+$domain  = strip_tags( $_GET['site'] );
 $api_url = 'https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&num=5&q=site%3A';
 $xml     = simplexml_load_file( $api_url . $domain );
 $checks  = '';
 $check   = 0;
+$i       = 0;
 
 // Extract URLs from first 10  search results.
 if ( count( $xml->channel->item ) > 9 ) {
@@ -65,8 +66,8 @@ foreach ( $links as $url ) {
 <?php echo $checks ?><br>
 <h2>URLs</h2>
 <?php print_r( $links ) ?><br>
-<h2>XML</h2>
-<?php print_r( $xml ) ?>
+<!-- h2>XML</h2 -->
+<?php // print_r( $xml ) ?>
 </pre>
 </body>
 </html>
